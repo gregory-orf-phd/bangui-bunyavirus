@@ -1,0 +1,705 @@
+taxon	order_in_fasta	accession	organism	strain	collection_year	host	collection_location	collection_continent	serogroup
+AXP33558|Abras_virus	442	AXP33558	Abras virus	75V1183	1974	Culex paracrybda	Ecuador	South America	Patois
+QLA47005|Abras_virus	588	QLA47005	Abras virus	75V1183	1974	Culex paracrybda	Ecuador	South America	Patois
+QLA47108|Acara_virus	611	QLA47108	Acara virus	BeAn 27639	1961	Mus musculus	Brazil	South America	Capim
+ATI21262|Achiote_virus	357	ATI21262	Achiote virus	PanAr 395144	1973	Aedes spp	Panama	South America	California
+ATI21264|Achiote_virus	358	ATI21264	Achiote virus	PanAr 395145	1979	Aedes spp	Panama	South America	California
+AXP31990|Aino_virus	417	AXP31990	Aino virus	JaNAr 28	1964	Culex tritaeniorhynchus	"Japan: Ainotown, Nagasaki"	Asia	Simbu
+QCT81351|Aino_virus	516	QCT81351	Aino virus	B7974	1968	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81352|Aino_virus	517	QCT81352	Aino virus	cs276	1979	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81353|Aino_virus	518	QCT81353	Aino virus	cs296	1979	bovine	Australia	Oceania	Simbu
+QCT81354|Aino_virus	519	QCT81354	Aino virus	cs655	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81355|Aino_virus	520	QCT81355	Aino virus	cs990	1991	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81356|Aino_virus	521	QCT81356	Aino virus	cs1068	1981	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81357|Aino_virus	522	QCT81357	Aino virus	cs1574	1983	Bos taurus	Australia	Oceania	Simbu
+QCT81358|Aino_virus	523	QCT81358	Aino virus	cs378	1979	Culicoides brevitarsis	Australia	Oceania	Simbu
+UGK54253|Akabane_orthobunyavirus	641	UGK54253	Akabane orthobunyavirus	ISR-170/18	2018	sheep	Israel	Asia	Simbu
+AFH96035|Akabane_virus	67	AFH96035	Akabane virus	AKVS-7/SKR/2010	2010	cattle	South Korea	Asia	Simbu
+AKP63313|Akabane_virus	221	AKP63313	Akabane virus	DHL10M110	2010	Anopheles vagus (mosquito)	China	Asia	Simbu
+ALE15081|Akabane_virus	236	ALE15081	Akabane virus	JaLAB39	1959	Aedes vexans	Australia	Oceania	Simbu
+APU93383|Akabane_virus	299	APU93383	Akabane virus	DHL10M110	2010	Anopheles vagus	China: Yunnan Province	Asia	Simbu
+ASM94312|Akabane_virus	340	ASM94312	Akabane virus	GXLCH02	2016	Rhizomys pruinosus	China	Asia	Simbu
+ASM94315|Akabane_virus	341	ASM94315	Akabane virus	GXLCH04	2016	Rhizomys pruinosus	China	Asia	Simbu
+ASM94318|Akabane_virus	342	ASM94318	Akabane virus	GXLCH16-70	2016	Rhizomys pruinosus	China	Asia	Simbu
+ASM94321|Akabane_virus	343	ASM94321	Akabane virus	GXLCH70N	2016	Rhizomys pruinosus	China	Asia	Simbu
+ASM94324|Akabane_virus	344	ASM94324	Akabane virus	GXLCH01	2016	Rhizomys pruinosus	China	Asia	Simbu
+AYO61087|Akabane_virus	462	AYO61087	Akabane virus	GXDH01	2016	goat	China	Asia	Simbu
+AZQ20748|Akabane_virus	466	AZQ20748	Akabane virus	HN10169	2010	Anopheles sinensis	China	Asia	Simbu
+AZW33610|Akabane_virus	467	AZW33610	Akabane virus	HN10174	2010	Culex quinquefasciatus	China	Asia	Simbu
+BAR94029|Akabane_virus	468	BAR94029	Akabane virus	TS-C2	1979	Bos taurus	Japan	Asia	Simbu
+BCG45239|Akabane_virus	469	BCG45239	Akabane virus	KM-2/Br/06	2006	Bos taurus	Japan: Kumamoto	Asia	Simbu
+BCG45243|Akabane_virus	470	BCG45243	Akabane virus	FI-1/Br/08	2008	Bos taurus	Japan: Fukui	Asia	Simbu
+QCT81312|Akabane_virus	478	QCT81312	Akabane virus	B8935	1968	Bos taurus	Australia	Oceania	Simbu
+QCT81313|Akabane_virus	479	QCT81313	Akabane virus	CS0016	1975	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81314|Akabane_virus	480	QCT81314	Akabane virus	CS0221	1976	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81315|Akabane_virus	481	QCT81315	Akabane virus	CS294	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81316|Akabane_virus	482	QCT81316	Akabane virus	CS396	1979	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81317|Akabane_virus	483	QCT81317	Akabane virus	CS505	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81318|Akabane_virus	484	QCT81318	Akabane virus	CS700	1981	Bos taurus	Australia	Oceania	Simbu
+QCT81319|Akabane_virus	485	QCT81319	Akabane virus	CS710	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81320|Akabane_virus	486	QCT81320	Akabane virus	CS744	1981	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81321|Akabane_virus	487	QCT81321	Akabane virus	CS749	1981	Bos taurus	Australia	Oceania	Simbu
+QCT81322|Akabane_virus	488	QCT81322	Akabane virus	CS951	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81324|Akabane_virus	489	QCT81324	Akabane virus	CS1416	1981	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81325|Akabane_virus	490	QCT81325	Akabane virus	CS1711	1984	Bos taurus	Australia	Oceania	Simbu
+QCT81326|Akabane_virus	491	QCT81326	Akabane virus	CS1776	1984	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81327|Akabane_virus	492	QCT81327	Akabane virus	CS1777	1984	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81328|Akabane_virus	493	QCT81328	Akabane virus	CS1778	1984	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81329|Akabane_virus	494	QCT81329	Akabane virus	CS1798	1984	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81330|Akabane_virus	495	QCT81330	Akabane virus	DPP231	1977	Bos taurus	Australia	Oceania	Simbu
+QCT81331|Akabane_virus	496	QCT81331	Akabane virus	R7949	1968	Bos taurus	Australia	Oceania	Simbu
+QCT81332|Akabane_virus	497	QCT81332	Akabane virus	CS215	1976	Bos taurus	Australia	Oceania	Simbu
+QCT81333|Akabane_virus	498	QCT81333	Akabane virus	CS228	1976	Bos taurus	Australia	Oceania	Simbu
+QCT81334|Akabane_virus	499	QCT81334	Akabane virus	CS231	1982	Bos taurus	Australia	Oceania	Simbu
+QCT81335|Akabane_virus	500	QCT81335	Akabane virus	CS233	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81336|Akabane_virus	501	QCT81336	Akabane virus	CS235	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81337|Akabane_virus	502	QCT81337	Akabane virus	CS236	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81338|Akabane_virus	503	QCT81338	Akabane virus	CS241	1978	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81339|Akabane_virus	504	QCT81339	Akabane virus	CS502	1976	Ovis aries	Australia	Oceania	Simbu
+QCT81340|Akabane_virus	505	QCT81340	Akabane virus	CS506	1979	Bos taurus	Australia	Oceania	Simbu
+QCT81341|Akabane_virus	506	QCT81341	Akabane virus	CS661	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81342|Akabane_virus	507	QCT81342	Akabane virus	CS979	1981	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81343|Akabane_virus	508	QCT81343	Akabane virus	C1316	1980	Bos taurus	Australia	Oceania	Simbu
+QCT81344|Akabane_virus	509	QCT81344	Akabane virus	CS1383	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81345|Akabane_virus	510	QCT81345	Akabane virus	CS1586	1983	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81346|Akabane_virus	511	QCT81346	Akabane virus	CS1796	1984	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81347|Akabane_virus	512	QCT81347	Akabane virus	DPP232	1982	Bos taurus	Australia	Oceania	Simbu
+QCT81348|Akabane_virus	513	QCT81348	Akabane virus	DPP237	1983	Bos taurus	Australia	Oceania	Simbu
+QCT81349|Akabane_virus	514	QCT81349	Akabane virus	DPP240	1983	Bos taurus	Australia	Oceania	Simbu
+QCT81350|Akabane_virus	515	QCT81350	Akabane virus	DPP261	1983	Bos taurus	Australia	Oceania	Simbu
+QQH14721|Akabane_virus	614	QQH14721	Akabane virus	TJ2016	NA	Bos taurus	China	Asia	Simbu
+QQL13652|Akabane_virus	615	QQL13652	Akabane virus	CX-01	2019	goat	China	Asia	Simbu
+YP_001497159|Akabane_virus	643	YP_001497159	Akabane virus	OBE-1	1974	Bos taurus	Japan	Asia	Simbu
+AIS74638|Alajuela_virus	157	AIS74638	Alajuela virus	MARU 11079	1963	Aedeomyia squamipennis	Panama: Panama State	North America	Gamboa
+YP_009507859|Alajuela_virus	660	YP_009507859	Alajuela virus	MARU 11079	1963	Aedeomyia squamipennis	Panama: Panama State	North America	Gamboa
+AKC89288|Anadyr_virus	201	AKC89288	Anadyr virus	LEIV-13128Kam	1983	mixed pool of mosquitoes	Russia: Kamchatka	Europe	Bunyamwera
+ALN13267|Anadyr_virus	243	ALN13267	Anadyr virus	LEIV-13128Kam	1986	Aedes sp. (mosquito)	"Russia: Kamchatka, Kamenskoe village"	Europe	Bunyamwera
+ALN13271|Anadyr_virus	244	ALN13271	Anadyr virus	LEIV-13130Kam	1986	Aedes sp. (mosquito)	"Russia: Kamchatka, Kamenskoe village"	Europe	Bunyamwera
+ALN13275|Anadyr_virus	245	ALN13275	Anadyr virus	LEIV-16002Mg	1987	Aedes sp. (mosquito)	"Russia: Magadan region, Susumanskiy district, Burkandya mine"	Europe	Bunyamwera
+ALN13283|Anadyr_virus	246	ALN13283	Anadyr virus	LEIV-16199Mg	1987	"pool of mosquitos (Aedes comminis, Aedes punctor, Aedes excrucians)"	"Russia: Magadan region, Telnitskiy district, Verniy-on-Kolyma village"	Europe	Bunyamwera
+ALN13287|Anadyr_virus	247	ALN13287	Anadyr virus	LEIV-16208Mg	1987	Aedes sp. (mosquito)	"Russia: Magadan region, Telnitskiy district, Ust-omchur village"	Europe	Bunyamwera
+ALN13291|Anadyr_virus	248	ALN13291	Anadyr virus	LEIV-16356Mg	1987	Aedes vexans	"Russia: Magadan region, Yagodinskiy district, Ust-Toskay floodplain of Toskay river"	Europe	Bunyamwera
+ALN13295|Anadyr_virus	249	ALN13295	Anadyr virus	LEIV-17769Yak	1988	Aedes sp. (mosquito)	"Russia: Yakutia, Oymyakonsky district, Elgi river"	Europe	Bunyamwera
+ALN13299|Anadyr_virus	250	ALN13299	Anadyr virus	LEIV-18098Yak	1987	Aedes nigripes	"Russia: Yakutia, Ust-Yansky district, point of 100 km to west from Deputatsky village"	Europe	Bunyamwera
+ALN13303|Anadyr_virus	251	ALN13303	Anadyr virus	LEIV-18136Yak	1987	"pool of mosquitos (Aedes nigripes, Aedes mercurator)"	"Russia: Yakutia, Ust-Yansky district, point of 100 km to west from Deputatsky village"	Europe	Bunyamwera
+ALN13307|Anadyr_virus	252	ALN13307	Anadyr virus	LEIV-18146Yak	1988	Aedes nigripes	"Russia: Yakutia, Ust-Yansky district, point of 100 km to west from Deputatsky village"	Europe	Bunyamwera
+ALN13311|Anadyr_virus	253	ALN13311	Anadyr virus	LEIV-18353Yak	1988	Aedes nigripes	"Russia: Yakutia, Ust-Yansky district, point of 100 km to west from Deputatsky village"	Europe	Bunyamwera
+ALN13319|Anadyr_virus	254	ALN13319	Anadyr virus	LEIV-18715Yak	1988	Aedes sp. (mosquito)	"Russia: Yakutia, Mirnensky district"	Europe	Bunyamwera
+ALN13323|Anadyr_virus	255	ALN13323	Anadyr virus	LEIV-23263Tyum	1990	Aedes sp. (mosquito)	"Russia: Tyumen region, point of 60 km up to river from Tazovsky village"	Europe	Bunyamwera
+ANB45710|Anadyr_virus	268	ANB45710	Anadyr virus	LEIV-13395Mg	1986	Aedes sp. (mosquito)	"Russia: Magadan region, Krasneno village"	Europe	Bunyamwera
+AXP31994|Anadyr_virus	418	AXP31994	Anadyr virus	LEIV 13395Mg	1986	Aedes sp. (mosquito)	"Russia: Magadan region, Krasneno village"	Europe	Bunyamwera
+YP_010085087|Anadyr_virus	702	YP_010085087	Anadyr virus	LEIV-13395Mg	1986	Aedes sp. (mosquito)	"Russia: Magadan region, Krasneno village"	Europe	Bunyamwera
+APM83095|Ananindeua_virus	296	APM83095	Ananindeua virus	BEAN109303	1966	Caluromys philander	Brazil	South America	Guama
+AXY55022|Ananindeua_virus	454	AXY55022	Ananindeua virus	BeAn20525	1960	sentinel mouse	Brazil	South America	Guama
+QLA47001|Ananindeua_virus	587	QLA47001	Ananindeua virus	BeAn 109303	1966	Caluromys philander	Brazil	South America	Guama
+AEZ35255|Anhembi_virus	56	AEZ35255	Anhembi virus	SPAr2984	1965	Phoniomyia pilicauda	Brazil	South America	Wyeomyia
+YP_009666889|Anhembi_virus	672	YP_009666889	Anhembi virus	SPAr2984	1965	NA	Brazil	South America	Wyeomyia
+ATJ04174|Anopheles_A_virus	362	ATJ04174	Anopheles A virus	original	1940	Anopheles boliviensis	Colombia: Villavicencio Meta	South America	Anopheles A
+QLA46998|Anopheles_B_virus	586	QLA46998	Anopheles B virus	Original	1940	Anopheles boliviensis	Colombia	South America	Anopheles B
+AVX48946|Apeu_virus	372	AVX48946	Apeu virus	BeAn848	1955	Sapajus apella	Brazil	South America	Group C
+AXP31986|Babahoya_virus	416	AXP31986	Babahoya virus	75V2858	1975	Aedes spp	Ecuador	South America	Patois
+AXP33559|Babahoya_virus	443	AXP33559	Babahoya virus	75V2858	1975	Culex ocossa	Ecuador	South America	Patois
+AKO90156|Bahig_virus	204	AKO90156	Bahig virus	EgB 90	1966	Oriolus oriolus	Egypt	Africa	Tete
+QLA46995|Bakau_virus	585	QLA46995	Bakau virus	MM-2325	1956	Culexlophoceratomyia	Malaysia	Asia	Bakau
+AXQ05041|Balagodu_virus	448	AXQ05041	Balagodu virus	PB1	1963	Ardeola grayii	India	Asia	Simbu
+ABT-DRC594|Bangui_virus	472	No_Accession	Bangui virus	DRC594	2017	Human	DRC	Africa	Ungrouped
+QLA47098|Bangui_virus	609	QLA47098	Bangui virus	DakHB 754	1970	Homo sapiens	Central African Republic	Africa	Ungrouped
+AFY52605|Batai_virus	75	AFY52605	Batai virus	MM2222	1955	Culex gelidus	Malaysia	Asia	Bunyamwera
+AFY52606|Batai_virus	76	AFY52606	Batai virus	Chittoor/IG-20217	1957	Anopheles barbirostris	India	Asia	Bunyamwera
+AFY52607|Batai_virus	77	AFY52607	Batai virus	UgMP-6830	NA	Aedes abnormalis	Uganda	Africa	Bunyamwera
+AFY52608|Batai_virus	78	AFY52608	Batai virus	MS50	1962	Aedes curtipes	Malaysia	Asia	Bunyamwera
+AGM40000|Batai_virus	89	AGM40000	Batai virus	Italy-2009	2009	mosquito	Italy	Europe	Bunyamwera
+AHW40489|Batai_virus	122	AHW40489	Batai virus	NM/12	2012	cattle	China: Inner Mongolia	Asia	Bunyamwera
+AKM28566|Batai_virus	202	AKM28566	Batai virus	CVOV 41.3	2013	Anopheles maculipennis	Austria	Europe	Bunyamwera
+ALN13241|Batai_virus	238	ALN13241	Batai virus	LEIV-1217Astr	2003	Anopheles maculipennis (mosquito)	"Russia: Astrakhan district, Volga river delta"	Europe	Bunyamwera
+ALN13249|Batai_virus	239	ALN13249	Batai virus	LEIV-2324Astr	2002	Anopheles maculipennis (mosquito)	"Russia: Astrakhan district, Volga river delta"	Europe	Bunyamwera
+ALN13253|Batai_virus	240	ALN13253	Batai virus	LEIV-99Astr	2004	Anopheles maculipennis (mosquito)	"Russia: Astrakhan district, Volga river delta"	Europe	Bunyamwera
+ALN13257|Batai_virus	241	ALN13257	Batai virus	LEIV-2342Astr	2002	Anopheles maculipennis (mosquito)	"Russia: Astrakhan district, Volga river delta"	Europe	Bunyamwera
+ALN13261|Batai_virus	242	ALN13261	Batai virus	LEIV-2303Astr	2002	Anopheles maculipennis (mosquito)	"Russia: Astrakhan district, Volga river delta"	Europe	Bunyamwera
+APF29570|Batai_virus	294	APF29570	Batai virus	K10441	1993	Culex annulirostris	Australia	Oceania	Bunyamwera
+APU88430|Batai_virus	298	APU88430	Batai virus	ZJ2014	2014	NA	China	Asia	Bunyamwera
+AXR75707|Batai_virus	449	AXR75707	Batai virus	PV424	2016	Phoca vitulina	Germany	Europe	Bunyamwera
+UEP19790|Batai_virus	639	UEP19790	Batai virus	53.2	2011	mosquito	Germany	Europe	Bunyamwera
+YP_009666906|Batai_virus	677	YP_009666906	Batai virus	MS50	1962	Aedes curtipes	Malaysia	Asia	Bunyamwera
+QLA46991|Batama_virus	584	QLA46991	Batama virus	DakAnB 1292	1970	Euplectes afer	Central African Republic	Africa	Tete
+ANI69984|Bellavista_virus	269	ANI69984	Bellavista virus	PRD0552	2009	Culex (Melanoconion) portesi	Peru: Iquitos	South America	Guama
+QLA47087|Benevides_virus	608	QLA47087	Benevides virus	BeAr 153564	1968	Mus musculus	Brazil	South America	Capim
+QLA47084|Benfica_virus	607	QLA47084	Benfica virus	71U344	1905	Hamster	Peru	South America	Capim
+QLA47081|Bertioga_virus	606	QLA47081	Bertioga virus	76V25643	1976	Culex (Melanoconion) sp.	Brazil	South America	Guama
+AKO90157|Bimiti_virus	205	AKO90157	Bimiti virus	TRVL 8362	1955	Culex spissipes	Trinidad and Tobago	South America	Guama
+YP_009507866|Bimiti_virus	661	YP_009507866	Bimiti virus	TRVL 8362	1955	Culex spissipes	Trinidad and Tobago	South America	Guama
+AXP31998|Birao_virus	419	AXP31998	Birao virus	DakArB 2198	1969	Anopheles pharoensis	"Central African Republic: Birao Village, Bangui"	Africa	Bunyamwera
+AXZ96246|Birao_virus	458	AXZ96246	Birao virus	DakArB 2198	1969	Anopheles pharoensis	Central African Republic: Banugui	Africa	Bunyamwera
+YP_009666996|Birao_virus	693	YP_009666996	Birao virus	DakArB 2198	1969	Anopheles pharoensis	Central African Republic: Banugui	Africa	Bunyamwera
+QSV51825|Bobaya_virus	621	QSV51825	Bobaya virus	DakAnB 2208	1971	Turdus libonyana	Central African Republic	Africa	Ungrouped
+QLA46985|Boraceia_virus	582	QLA46985	Boraceia virus	SPAr 4080	1965	Anopheles cruzii	Brazil	South America	Anopheles B
+QLA46988|Boraceia_virus	583	QLA46988	Boraceia virus	SPAr 395	1962	Anopheles cruzii	Brazil	South America	Anopheles B
+AXP32002|Bozo_virus	420	AXP32002	Bozo virus	DakArB 7343	1975	Aedes opok	Central African Republic	Africa	Bunyamwera
+AXZ96250|Bozo_virus	459	AXZ96250	Bozo virus	DakArB 7343	1975	Aedes opok	Central African Republic: Bozo	Africa	Bunyamwera
+YP_009667001|Bozo_virus	694	YP_009667001	Bozo virus	DakArB 7343	1975	Aedes opok	Central African Republic: Bozo	Africa	Bunyamwera
+AGS94386|Brazoran_virus	91	AGS94386	Brazoran virus	Original	2012	Culex sp.	USA	North America	Ungrouped
+YP_008400138|Brazoran_virus	647	YP_008400138	Brazoran virus	Original	2012	Culex sp.	USA	North America	Ungrouped
+AKB96243|Bruconha_virus	184	AKB96243	Bruconha virus	77V74814	1977	sentinel mouse	Brazil	South America	Group C
+QLA46982|Bruconha_virus	581	QLA46982	Bruconha virus	77V14676	1976	Culex (Melanoconion) sp.	Brazil	South America	Group C
+AJD77610|Buffalo_Creek_virus	164	AJD77610	Buffalo Creek virus	DPP186	1982	Anopheles meraukensis	Australia	Oceania	Mapputta
+QSV52379|Bunyamwera_orthobunyavirus	622	QSV52379	Bunyamwera orthobunyavirus	KW_S1_25397	2017	mosquito	Kenya	Africa	Bunyamwera
+QSV52380|Bunyamwera_orthobunyavirus	623	QSV52380	Bunyamwera orthobunyavirus	KW_S1_24873	2017	mosquito	Kenya	Africa	Bunyamwera
+QSV52382|Bunyamwera_orthobunyavirus	624	QSV52382	Bunyamwera orthobunyavirus	KW_S1_25204	2017	mosquito	Kenya	Africa	Bunyamwera
+UAM96129|Bunyamwera_orthobunyavirus	633	UAM96129	Bunyamwera orthobunyavirus	84Brakna/ME	2015	sheep	Mauritania	Africa	Bunyamwera
+UEP19793|Bunyamwera_orthobunyavirus	640	UEP19793	Bunyamwera orthobunyavirus	ATCC(R) VR-87	1943	mosquito	Uganda	Africa	Bunyamwera
+AEQ54727|Bunyamwera_virus	54	AEQ54727	Bunyamwera virus	AMH001130	2009	Aedes mcintoshi	Kenya	Africa	Bunyamwera
+AIZ49762|Bunyamwera_virus	160	AIZ49762	Bunyamwera virus	GSA/S4/11232/WT	2009	Aedes mcintoshi	Kenya	Africa	Bunyamwera
+AIZ49763|Bunyamwera_virus	161	AIZ49763	Bunyamwera virus	MGD/S1/12060/WT	2009	Anopheles funestus	Kenya	Africa	Bunyamwera
+AKX73301|Bunyamwera_virus	222	AKX73301	Bunyamwera virus	SFCrEq231	2013	horse	Argentina	South America	Bunyamwera
+AXP32006|Bunyamwera_virus	421	AXP32006	Bunyamwera virus	46A-122	2006	Aedes ochraceus	"Kenya: Desai, Garissa"	Africa	Bunyamwera
+NP_047211|Bunyamwera_virus	473	NP_047211	Bunyamwera virus	NA	NA	NA	NA	Africa	Bunyamwera
+UCD53702|Bunyavirales_sp.	636	UCD53702	Bunyavirales sp.	L7-7	2012	wingless bat flies	China: Yunnan	Asia	Ungrouped
+QLA47078|Bushbush_virus	605	QLA47078	Bushbush virus	TRVL 26668	1959	Culex accelerans	Trinidad and Tobago	South America	Capim
+AHY22338|Buttonwillow_virus	131	AHY22338	Buttonwillow virus	BFS 5002	1964	Culicoides sp.	USA	North America	Simbu
+AXP32010|Buttonwillow_virus	422	AXP32010	Buttonwillow virus	A 7956	1961	Sylvilagus audubonii	"USA: Kern County, CA"	North America	Simbu
+YP_009666926|Buttonwillow_virus	683	YP_009666926	Buttonwillow virus	BFS 5002	1964	Culicoides sp.	USA	North America	Simbu
+AIN37018|Bwamba_orthobunyavirus	142	AIN37018	Bwamba orthobunyavirus	M459	1937	Homo sapiens	Uganda	Africa	Bwamba
+AIN37019|Bwamba_orthobunyavirus	143	AIN37019	Bwamba orthobunyavirus	UgAr1888	1996	Anopheles funestus	Uganda	Africa	Bwamba
+YP_009362049|Bwamba_orthobunyavirus	651	YP_009362049	Bwamba orthobunyavirus	M459	1937	Homo sapiens	Uganda	Africa	Bwamba
+AGI03946|Cache_Valley_virus	85	AGI03946	Cache Valley virus	MNZ-92011	2011	Homo sapiens	USA	North America	Bunyamwera
+ARI46662|Cache_Valley_virus	332	ARI46662	Cache Valley virus	6V633	1956	Culiseta inornata	USA	North America	Bunyamwera
+ARI46666|Cache_Valley_virus	333	ARI46666	Cache Valley virus	W728-67	1967	Aedes communis	USA	North America	Bunyamwera
+ARI46670|Cache_Valley_virus	334	ARI46670	Cache Valley virus	W308-67	1967	Aedes trivittatus	USA	North America	Bunyamwera
+ARI46674|Cache_Valley_virus	335	ARI46674	Cache Valley virus	MPB1-1551	1971	Psorophora confinnis	Mexico	North America	Bunyamwera
+ARI46678|Cache_Valley_virus	336	ARI46678	Cache Valley virus	CK-102	1980	sheep	USA	North America	Bunyamwera
+ARI46682|Cache_Valley_virus	337	ARI46682	Cache Valley virus	MI80-1-450	1980	horse	USA	North America	Bunyamwera
+ARI46686|Cache_Valley_virus	338	ARI46686	Cache Valley virus	WI-03BS7669	2003	Homo sapiens	USA	North America	Bunyamwera
+AXU40907|Cache_Valley_virus	452	AXU40907	Cache Valley virus	6V633	2018	NA	United Kingdom	Europe	Bunyamwera
+QHN12711|Cache_Valley_virus	550	QHN12711	Cache Valley virus	R103016b	2015	Homo sapiens	USA: Missouri	North America	Bunyamwera
+QYS16045|Cache_Valley_virus	631	QYS16045	Cache Valley virus	W08491	NA	Culex tarsalis	USA	North America	Bunyamwera
+QYS16046|Cache_Valley_virus	632	QYS16046	Cache Valley virus	4B	NA	Aedes japonicus	USA	North America	Bunyamwera
+YP_009666950|Cache_Valley_virus	686	YP_009666950	Cache Valley virus	6V633	1956	Culiseta inornata	USA	North America	Bunyamwera
+AEZ35283|Cachoeira_Porteira_virus	66	AEZ35283	Cachoeira Porteira virus	BeAr328208	1977	Sabethes glaucadaemon	Brazil	South America	Wyeomyia
+YP_009666900|Cachoeira_Porteira_virus	675	YP_009666900	Cachoeira Porteira virus	NA	NA	NA	Brazil	South America	Wyeomyia
+AIS74637|Calchaqui_virus	156	AIS74637	Calchaqui virus	AG 83-1347	1982	Aedeomyia squamipennis	Argentina: Santa Fe	South America	Gamboa
+APA29013|California_encephalitis_virus	292	APA29013	California encephalitis virus	BFS 283	1943	Aedes dorsalis	USA: California	North America	California
+YP_010084300|California_encephalitis_virus	697	YP_010084300	California encephalitis virus	BFS 283	1943	Aedes dorsalis	USA: California	North America	California
+AGM34033|Calovo_virus	88	AGM34033	Calovo virus	138-pool 468	1983	NA	Yugoslavia	Europe	Bunyamwera
+AHZ64955|Calovo_virus	132	AHZ64955	Calovo virus	134	1963	NA	Czech Republic	Europe	Bunyamwera
+AHZ64956|Calovo_virus	133	AHZ64956	Calovo virus	JAn (MS3)	1969	NA	Croatia	Europe	Bunyamwera
+AHZ64957|Calovo_virus	134	AHZ64957	Calovo virus	8020	1975	NA	Slovakia	Europe	Bunyamwera
+AHZ64958|Calovo_virus	135	AHZ64958	Calovo virus	8040	1975	NA	Slovakia	Europe	Bunyamwera
+QLA47075|Cananeia_virus	604	QLA47075	Cananeia virus	SPAn 64962	1976	Mus musculus	Brazil	South America	Guama
+ALP92388|Capim_virus	257	ALP92388	Capim virus	BeAn 8582	1958	Caluromys philander (woolly opossum)	Brazil	South America	Capim
+AMR98956|Capim_virus	267	AMR98956	Capim virus	BeAn8582	1958	Caluromys philander	"Brazil: Utinga Forest, Para State"	South America	Capim
+YP_009362054|Capim_virus	652	YP_009362054	Capim virus	BeAn 8582	1958	Caluromys philander (woolly opossum)	Brazil	South America	Capim
+ABQ14448|Caraparu_virus	10	ABQ14448	Caraparu virus	BeAn3994	1956	Cebus apella	Brazil: Para State	South America	Group C
+AGW82134|Caraparu_virus	97	AGW82134	Caraparu virus	BeAn3994	1956	Cebus apella	Brazil	South America	Group C
+AGW82145|Caraparu_virus	99	AGW82145	Caraparu virus	FVB0426	2008	Homo sapiens; gender F; age 24	Bolivia: Cochabamba	South America	Group C
+AGW82149|Caraparu_virus	100	AGW82149	Caraparu virus	IQD5973	2003	Homo sapiens; gender F; age 17	Peru: Iquitos	South America	Group C
+AGW82157|Caraparu_virus	102	AGW82157	Caraparu virus	FMD0783	2006	Homo sapiens; gender M; age 21	Peru: Puerto Maldonado	South America	Group C
+AVX48950|Caraparu_virus	373	AVX48950	Caraparu virus	BeAn3994	1956	Sapajus apella	Brazil	South America	Group C
+QLA46975|Caraparu_virus	580	QLA46975	Caraparu virus	BeAn 3994	1956	Sapajus apella (Sentinel)	Brazil	South America	Group C
+YP_009362063|Caraparu_virus	654	YP_009362063	Caraparu virus	BeAn3994	1956	Cebus apella	Brazil	South America	Group C
+AFI24663|Cat_Que_virus	68	AFI24663	Cat Que virus	VN04-2108	2004	Culex sp.	Viet Nam	Asia	Simbu
+AXQ05038|Cat_Que_virus	447	AXQ05038	Cat Que virus	JM1	1961	Acridotheres fuscus	India	Asia	Simbu
+YP_009028569|Cat_Que_virus	648	YP_009028569	Cat Que virus	VN04-2108	2004	Culex sp.	Viet Nam	Asia	Simbu
+AKO90158|Catu_virus	206	AKO90158	Catu virus	BeH 151	1955	Homo sapiens	Brazil	South America	Guama
+YP_009507870|Catu_virus	662	YP_009507870	Catu virus	BeH 151	1955	Homo sapiens	Brazil	South America	Guama
+ACC77564|Chatanga_virus	12	ACC77564	Chatanga virus	LEIV-17756	1988	Aedes sp.	Russia: Iakutia Republic	Asia	California
+AEK05550|Chatanga_virus	51	AEK05550	Chatanga virus	LEIV-18733	NA	Aedes nigripes (mosquito)	Russia: Yakutia	Europe	California
+AEK05551|Chatanga_virus	52	AEK05551	Chatanga virus	LEIV-15854	NA	Aedes sp. (mosquito)	Russia: Komi republic	Europe	California
+AEK05552|Chatanga_virus	53	AEK05552	Chatanga virus	LEIV-22712	NA	Aedes communis (mosquito)	Russia: Tyumen region	Europe	California
+AHI87722|Chatanga_virus	117	AHI87722	Chatanga virus	Mohko ILO8-3	2008	NA	Finland	Europe	California
+AHI87725|Chatanga_virus	118	AHI87725	Chatanga virus	Mohko M07-1	2007	NA	Finland	Europe	California
+AHI87728|Chatanga_virus	119	AHI87728	Chatanga virus	Mohko M07-2-83	2007	NA	Finland	Europe	California
+AHI87731|Chatanga_virus	120	AHI87731	Chatanga virus	Mohko M07-2-84	2007	NA	Finland	Europe	California
+AHI87734|Chatanga_virus	121	AHI87734	Chatanga virus	Mohko S07-2	2007	NA	Finland	Europe	California
+ANW09504|Chatanga_virus	275	ANW09504	Chatanga virus	LEIV-10944Vol	1985	Aedes sp. (mosquito)	Russia: Vologda district	Europe	California
+ANW09507|Chatanga_virus	276	ANW09507	Chatanga virus	LEIV-11430Kar	1985	Aedes communis (mosquito)	Russia: Karelia	Europe	California
+ANW09510|Chatanga_virus	277	ANW09510	Chatanga virus	LEIV-21845Kra	1989	Aedes sp. (mosquito)	Russia: Krasnoyarsk district	Europe	California
+ANW09513|Chatanga_virus	278	ANW09513	Chatanga virus	LEIV-12812Kln	1986	Aedes sp. (mosquito)	Russia: Tver district	Europe	California
+ANW09516|Chatanga_virus	279	ANW09516	Chatanga virus	LEIV-13262Kam	1987	Aedes vexans	Russia: Kamchatka	Europe	California
+ANW09519|Chatanga_virus	280	ANW09519	Chatanga virus	LEIV-17835Yak	1988	Aedes sp. (mosquito)	Russia: Yakutsk district	Europe	California
+ANW09522|Chatanga_virus	281	ANW09522	Chatanga virus	LEIV-18739Yak	1988	Aedes sp. (mosquito)	Russia: Yakutsk district	Europe	California
+AVR54980|Chatanga_virus	369	AVR54980	Chatanga virus	LEIV-25152	1991	Aedes sp.	Russia: region Altai	Europe	California
+QKE53103|Cristoli_virus	554	QKE53103	Cristoli virus	13032019	2019	Homo sapiens	France	Europe	Turlock
+QCT81359|Douglas_virus	524	QCT81359	Douglas virus	cs400	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81360|Douglas_virus	525	QCT81360	Douglas virus	cs1059	1981	Bos taurus	Australia	Oceania	Simbu
+AIA08883|Ebinur_lake_virus	136	AIA08883	Ebinur lake virus	Cu20-XJ	2013	NA	China	Asia	Bunyamwera
+ALS54742|El_Huayo_virus	259	ALS54742	El Huayo virus	IQT110	2013	Culex portesi	Peru	South America	Group C
+AMR98952|Enseada_virus	266	AMR98952	Enseada virus	76V-25880	1976	Culex epanatasis	"Brazil: Cananeia Town, Sao Paulo State"	South America	Ungrouped
+QLA46971|Enseada_virus	579	QLA46971	Enseada virus	78V213	1976	Culex epanatasis	Brazil	South America	Ungrouped
+YP_009666945|Enseada_virus	684	YP_009666945	Enseada virus	76V-25880	1976	Culex epanatasis	"Brazil: Cananeia Town, Sao Paulo State"	South America	Ungrouped
+AHY22330|Faceys_Paddock_virus	123	AHY22330	Faceys Paddock virus	Aus Ch 16129	1974	mosquito	Australia	Oceania	Simbu
+YP_010085068|Faceys_Paddock_virus	699	YP_010085068	Faceys Paddock virus	Aus Ch 16129	1974	mosquito	Australia	Oceania	Simbu
+QJQ29397|Fort_Sherman_orthobunyavirus	553	QJQ29397	Fort Sherman orthobunyavirus	Barreiras	2018	horse	Brazil	South America	Bunyamwera
+ARI46658|Fort_Sherman_virus	331	ARI46658	Fort Sherman virus	86MSP18	1985	Homo sapiens	Panama	North America	Bunyamwera
+AXP32014|Fort_Sherman_virus	423	AXP32014	Fort Sherman virus	86MSP18	1985	Homo sapiens; 36 yr AD male	Panama	North America	Bunyamwera
+YP_009666949|Fort_Sherman_virus	685	YP_009666949	Fort Sherman virus	86MSP18	1985	Homo sapiens	Panama	North America	Bunyamwera
+AIS74634|Gamboa_virus	153	AIS74634	Gamboa virus	GML 435718	1986	Aedeomyia squamipennis	Panama: Colon	North America	Gamboa
+AIS74635|Gamboa_virus	154	AIS74635	Gamboa virus	GML 903023	1977	Aedeomyia squamipennis	Panama: Panama State	North America	Gamboa
+AIS74636|Gamboa_virus	155	AIS74636	Gamboa virus	MARU 10962	1962	Aedeomyia squamipennis	Panama: Panama State	North America	Gamboa
+AMD82973|Gamboa_virus	260	AMD82973	Gamboa virus	GAM_118	2012	Aedeomyia squamipennis	"Panama: Central Panama, Soberania National Park"	North America	Gamboa
+AMD82974|Gamboa_virus	261	AMD82974	Gamboa virus	GAM_122	2012	Aedeomyia squamipennis	"Panama: Central Panama, Soberania National Park"	North America	Gamboa
+AMD82975|Gamboa_virus	262	AMD82975	Gamboa virus	GAM_130	2012	Aedeomyia squamipennis	"Panama: Central Panama, Soberania National Park"	North America	Gamboa
+AMD82976|Gamboa_virus	263	AMD82976	Gamboa virus	GAM_131	2012	Aedeomyia squamipennis	"Panama: Central Panama, Soberania National Park"	North America	Gamboa
+ATB53295|Gamboa_virus	348	ATB53295	Gamboa virus	BeAn448848	1986	Geotrygon montana	Brazil	South America	Gamboa
+ATB53296|Gamboa_virus	349	ATB53296	Gamboa virus	BeAr502380	1986	Aedeomyia squamipennis	Brazil	South America	Gamboa
+ATB53297|Gamboa_virus	350	ATB53297	Gamboa virus	BeAr503385	1991	Aedeomyia squamipennis	Brazil	South America	Gamboa
+ATB53298|Gamboa_virus	351	ATB53298	Gamboa virus	GML382716	1985	Aedeomyia squamipennis	Panama	North America	Gamboa
+ATB53299|Gamboa_virus	352	ATB53299	Gamboa virus	GML438524	1987	Aedeomyia squamipennis	Panama	North America	Gamboa
+ATB53301|Gamboa_virus	354	ATB53301	Gamboa virus	TRVL61469	1964	Aedes sp.	Suriname	South America	Gamboa
+AVG72380|Gamboa_virus	365	AVG72380	Gamboa virus	BeAn439546	1985	Columbidae	Brazil	South America	Gamboa
+QLA46964|Gamboa_virus	578	QLA46964	Gamboa virus	75V20086	1975	Aedeomyia squamipennis	Ecuador	South America	Gamboa
+YP_009507871|Gamboa_virus	663	YP_009507871	Gamboa virus	GML 435718	1986	Aedeomyia squamipennis	Panama: Colon	North America	Gamboa
+ALQ43836|Gan_Gan_virus	258	ALQ43836	Gan Gan virus	NB6057	1970	Aedes vigilax	Australia	Oceania	Mapputta
+AOZ21156|Gan_Gan_virus	283	AOZ21156	Gan Gan virus	K42904	2000	Aedes vigilax	"Australia: Derby, Western Australia"	Oceania	Mapputta
+APF29571|Gan_Gan_virus	295	APF29571	Gan Gan virus	12005	1992	Aedes vigilax	Austrailia	Oceania	Mapputta
+AKO90159|Guajara_orthobunyavirus	207	AKO90159	Guajara orthobunyavirus	BeAn 10615	1959	Mus musculus	Brazil	South America	Capim
+QLA46960|Guajara_orthobunyavirus	577	QLA46960	Guajara orthobunyavirus	18315	1975	Mesocricetus auratus	Ecuador	South America	Capim
+YP_009507877|Guajara_orthobunyavirus	664	YP_009507877	Guajara orthobunyavirus	BeAn 10615	1959	Mus musculus	Brazil	South America	Capim
+AKO90160|Guama_virus	208	AKO90160	Guama virus	BeAn 277	1955	Cebus apella	Brazil	South America	Guama
+YP_009507879|Guama_virus	665	YP_009507879	Guama virus	BeAn 277	1955	Cebus apella	Brazil	South America	Guama
+QLA47070|Guaratuba_virus	603	QLA47070	Guaratuba virus	76V25271	1976	Culex taeniopus	Brazil	South America	Guama
+AEZ35282|Guaroa_virus	65	AEZ35282	Guaroa virus	BeH22063	1960	Homo sapiens	Brazil	South America	California
+AKC42478|Guaroa_virus	189	AKC42478	Guaroa virus	ASA1165	2011	Homo sapiens	Peru	South America	California
+AKC42482|Guaroa_virus	190	AKC42482	Guaroa virus	FSJ2035	2011	Homo sapiens	Peru	South America	California
+AKC42486|Guaroa_virus	191	AKC42486	Guaroa virus	FPI01900	2011	Homo sapiens	Peru	South America	California
+AKC42490|Guaroa_virus	192	AKC42490	Guaroa virus	FVB2032	2009	Homo sapiens	Bolivia	South America	California
+AKC42494|Guaroa_virus	193	AKC42494	Guaroa virus	FVB0849	2009	Homo sapiens	Bolivia	South America	California
+AKC42498|Guaroa_virus	194	AKC42498	Guaroa virus	FVB0840	2009	Homo sapiens	Bolivia	South America	California
+AKC42502|Guaroa_virus	195	AKC42502	Guaroa virus	MIS0239	2008	Homo sapiens	Peru	South America	California
+AKC42506|Guaroa_virus	196	AKC42506	Guaroa virus	OBT5637	2007	Homo sapiens	Peru	South America	California
+AKC42510|Guaroa_virus	197	AKC42510	Guaroa virus	FVB0546	2007	Homo sapiens	Bolivia	South America	California
+AKC42514|Guaroa_virus	198	AKC42514	Guaroa virus	IQD8537	2004	Homo sapiens	Peru	South America	California
+AKC42519|Guaroa_virus	199	AKC42519	Guaroa virus	BeH22063	1960	Homo sapiens	Brazil	South America	California
+AKC42523|Guaroa_virus	200	AKC42523	Guaroa virus	CoH352111	1956	Homo sapiens (asymptomatic)	Colombia	South America	California
+YP_009362061|Guaroa_virus	653	YP_009362061	Guaroa virus	BeH22063	1960	Homo sapiens	Brazil	South America	California
+AKB96244|Gumbo_Limbo_virus	185	AKB96244	Gumbo Limbo virus	Fe371H2	1963	Culex (Melanoconium) sp.	USA	North America	Group C
+QLA46957|Gumbo_Limbo_virus	576	QLA46957	Gumbo Limbo virus	FE3-71H	1963	Culex sp.	USA	North America	Group C
+AED98377|I612045_virus	46	AED98377	I612045 virus	NA	1961	NA	India	Asia	Tete
+AEZ35258|Iaco_virus	57	AEZ35258	Iaco virus	BeAn314206	1976	Wyeomyia spp.	Brazil	South America	Wyeomyia
+YP_009666893|Iaco_virus	673	YP_009666893	Iaco virus	BeAn314206	1976	NA	Brazil	South America	Bunyamwera
+AGM34025|Ilesha_virus	86	AGM34025	Ilesha virus	ILESHA/8e	1972	NA	Senegal	Africa	Bunyamwera
+AGU99597|Ilesha_virus	94	AGU99597	Ilesha virus	R5964	1964	Homo sapiens	Nigeria	Africa	Bunyamwera
+QNS29913|Ilesha_virus	613	QNS29913	Ilesha virus	KO/2	1967	Homo sapiens	Nigeria: Ilesha	Africa	Bunyamwera
+YP_009666916|Ilesha_virus	679	YP_009666916	Ilesha virus	NA	NA	NA	NA	Africa	Bunyamwera
+ATI21270|Infirmatus_virus	360	ATI21270	Infirmatus virus	Tampa 08	2008	Aedes infirmatus	USA	North America	California
+AHY22331|Ingwavuma_virus	124	AHY22331	Ingwavuma virus	SA An 4165	1959	Hyphanturgus ocularis	South Africa	Africa	Simbu
+YP_009666917|Ingwavuma_virus	680	YP_009666917	Ingwavuma virus	SA An 4165	1959	Hyphanturgus ocularis	South Africa	Africa	Simbu
+ACF10362|Inkoo_virus	13	ACF10362	Inkoo virus	KN3641	1964	Aedes communis (punctor mosquito)	Finland	Europe	California
+ANW09486|Inkoo_virus	270	ANW09486	Inkoo virus	LEIV-15248Iv	1973	Aedes sp. (mosquito)	Russia: Ivanovo district	Europe	California
+ANW09489|Inkoo_virus	271	ANW09489	Inkoo virus	LEIV-18154Yak	1989	Aedes sp. (mosquito)	Russia: Yakutsk district	Europe	California
+ANW09495|Inkoo_virus	272	ANW09495	Inkoo virus	LEIV-22780Tyum	1990	Aedes sp. (mosquito)	Russia: Tyumen district	Europe	California
+ANW09498|Inkoo_virus	273	ANW09498	Inkoo virus	LEIV-18152Yak	1988	Aedes nigripes (mosquito)	Russia: Yakutsk district	Europe	California
+ANW09501|Inkoo_virus	274	ANW09501	Inkoo virus	LEIV-21643Kra	1989	Aedes sp. (mosquito)	Russia: Krasnoyarsk district	Europe	California
+AOS59868|Inkoo_virus	282	AOS59868	Inkoo virus	Lovanger	2015	Ochlerotatus communis; adult mosquito	Sweden: Vasterbotten	Europe	California
+AHY22332|Iquitos_virus	125	AHY22332	Iquitos virus	IQT9924	1999	Homo sapiens	Peru	South America	Simbu
+AIK67307|Iquitos_virus	138	AIK67307	Iquitos virus	MIS-0397	2009	Homo sapiens	Peru: Lima	South America	Simbu
+AVX48954|Itaqui_virus	374	AVX48954	Itaqui virus	BeAn12797	1959	sentinel mouse	Brazil	South America	Group C
+QLA46950|Itaqui_virus	575	QLA46950	Itaqui virus	BeAn 12797	1959	Mus musculus	Brazil	South America	Group C
+AJZ73167|Itaya_virus	177	AJZ73167	Itaya virus	IQT9646	1999	Homo sapiens	Peru: Iquitos	South America	Group C
+QLA47067|Itimirim_virus	602	QLA47067	Itimirim virus	SPAn 47817	1976	Oryzomys sp.	Brazil	South America	Guama
+ADK36669|Jamestown_Canyon_virus	38	ADK36669	Jamestown Canyon virus	61V2235	1961	Culiseta inornata	USA	North America	California
+ADK36670|Jamestown_Canyon_virus	39	ADK36670	Jamestown Canyon virus	611112	2003	Ochlerotatus abserratus	USA	North America	California
+ADK36671|Jamestown_Canyon_virus	40	ADK36671	Jamestown Canyon virus	520198	2004	Ochlerotatus canadensis	USA	North America	California
+APA29009|Jamestown_Canyon_virus	291	APA29009	Jamestown Canyon virus	61V2235	1961	Culiseta inornata	USA: Colorado	North America	California
+AXZ96238|Jamestown_Canyon_virus	456	AXZ96238	Jamestown Canyon virus	L36708	1966	Ochlerotatus abserratus	"USA: Simsbury, CT"	North America	California
+AXZ96242|Jamestown_Canyon_virus	457	AXZ96242	Jamestown Canyon virus	MN256-260	1979	Aedes sp.	Canada: Manitoba	North America	California
+QCF29631|Jamestown_Canyon_virus	476	QCF29631	Jamestown Canyon virus	NM5-4BU	1977	Culiseta inornata	USA: New Mexico	North America	California
+QEI47191|Jamestown_Canyon_virus	539	QEI47191	Jamestown Canyon virus	16/MA/01	2016	Ochlerotatus canadensis	"USA: Bristol County, Massachusetts"	North America	California
+QRX38889|Jamestown_Canyon_virus	616	QRX38889	Jamestown Canyon virus	JCV_B155_CSF_L	2018	Homo sapiens	USA	North America	California
+QRX38890|Jamestown_Canyon_virus	617	QRX38890	Jamestown Canyon virus	JCV_B155_Cortex_frozen_L	2018	Homo sapiens	USA	North America	California
+QRX38891|Jamestown_Canyon_virus	618	QRX38891	Jamestown Canyon virus	JCV_B155_Cortex_FFPE_L	2018	Homo sapiens	USA	North America	California
+QRX38892|Jamestown_Canyon_virus	619	QRX38892	Jamestown Canyon virus	JCV_B155_Cerebellum_frozen_L	2018	Homo sapiens	USA	North America	California
+QRX38893|Jamestown_Canyon_virus	620	QRX38893	Jamestown Canyon virus	JCV_B155_Cerebellum_FFPE_L	2018	Homo sapiens	USA	North America	California
+YP_009666884|Jamestown_Canyon_virus	671	YP_009666884	Jamestown Canyon virus	61V2235	1961	Culiseta inornata	USA	North America	California
+AFI24668|Jatobal_virus	69	AFI24668	Jatobal virus	BeAn 423380	1984	Nasua nasua	Brazil	South America	Simbu
+YP_009666904|Jatobal_virus	676	YP_009666904	Jatobal virus	BeAn 423380	1984	Nasua nasua	Brazil	South America	Simbu
+APA29005|Jerry_Slough_virus	290	APA29005	Jerry Slough virus	BFS 4474	1963	Culiseta inornata	USA: California	North America	California
+QLA47064|Juan_Diaz_virus	601	QLA47064	Juan Diaz virus	MARU 8563	1962	mouse (sentinel)	Panama	North America	Capim
+AIN37025|Kaeng_Khoi_virus	149	AIN37025	Kaeng Khoi virus	PSC-19	1969	Tadarida plicata	Thailand	Asia	Nyando
+ASG81437|Kaeng_Khoi_virus	339	ASG81437	Kaeng Khoi virus	WDBC1210	2012	bat fly	China: Yunnan	Asia	Nyando
+AYF57697|Kaeng_Khoi_virus	461	AYF57697	Kaeng Khoi virus	WDBC1403	2014	Eucampsipoda sundaica	China	Asia	Nyando
+YP_009362074|Kaeng_Khoi_virus	658	YP_009362074	Kaeng Khoi virus	PSC-19	1969	Tadarida plicata	Thailand	Asia	Nyando
+AXP32018|Kaikalur_virus	424	AXP32018	Kaikalur virus	VRC 713423-2	1971	Culex tritaeniorhynchus	"India: Kaikalur, Andhra Prov."	Asia	Simbu
+ALC78364|Kairi_virus	233	ALC78364	Kairi virus	BeAr8226	1957	Ochlerotatus scapularis	Brazil	South America	Bunyamwera
+AXP32022|Kairi_virus	425	AXP32022	Kairi virus	TRVL 8900	1955	Ochlerotatus scapularis	"Trinidad and Tobago: Melajo Forest, Northeast Trinidad"	South America	Bunyamwera
+AXU40903|Kairi_virus	451	AXU40903	Kairi virus	TR8900	2018	NA	United Kingdom	Europe	Bunyamwera
+YP_009507881|Kairi_virus	666	YP_009507881	Kairi virus	BeAr8226	1957	Ochlerotatus scapularis	Brazil	South America	Bunyamwera
+QLA47061|Ketapang_virus	600	QLA47061	Ketapang virus	MM 2549	1956	Culex (Lophoceraomyia) sp.	Malaysia	Asia	Bakau
+ALD52502|Keystone_virus	234	ALD52502	Keystone virus	KEYV/Ochlerotatus atlanticus/USA/KEYVLK01/2005	2005	Ochlerotatus atlanticus	"USA: Sarasota County, FL"	North America	California
+ALD52506|Keystone_virus	235	ALD52506	Keystone virus	KEYV/Ochlerotatus atlanticus/USA/KEYVLK02/2005	2005	Ochlerotatus atlanticus	"USA: Sarasota County, FL"	North America	California
+APA29001|Keystone_virus	289	APA29001	Keystone virus	B64-5587.05	1964	Ochlerotatus cf. atlanticus/tormentor	USA: Florida	North America	California
+AWK60687|Keystone_virus	379	AWK60687	Keystone virus	KEYV/Homo sapiens/Gainesville-1/2016	2016	Homo sapiens	USA	North America	California
+AXY55018|Keystone_virus	453	AXY55018	Keystone virus	AVA1709441	2017	Culex sp.	"USA: Orange county, Texas"	North America	California
+AXY55025|Keystone_virus	455	AXY55025	Keystone virus	AR14033	2016	Culex sp.	USA: Texas	North America	California
+QLI33838|Keystone_virus	612	QLI33838	Keystone virus	KEYV/mosquito/St. John's County-FL/2019	2019	Ochlerotatus atlanticus (tormentor mosquitoes)	USA	North America	California
+QYJ10034|Keystone_virus	628	QYJ10034	Keystone virus	KEYV/mosquito/St. John's County-FL-2/2019	2019	Ochlerotatus atlanticus; female	"USA: St. John's County, Florida"	North America	California
+QYJ10035|Keystone_virus	629	QYJ10035	Keystone virus	KEYV/mosquito/St. John's County-FL-3/2019	2019	Ochlerotatus atlanticus; female	"USA: St. John's County, Florida"	North America	California
+QYJ10036|Keystone_virus	630	QYJ10036	Keystone virus	KEYV/mosquito/St. John's County-FL-4/2019	2019	Ochlerotatus atlanticus; female	"USA: St. John's County, Florida"	North America	California
+YP_009666964|Keystone_virus	687	YP_009666964	Keystone virus	B64-5587.05	1964	Ochlerotatus cf. atlanticus/tormentor	USA: Florida	North America	California
+AHL27169|Khurdun_virus	1	AHL27169	Khurdun virus	LEIV-Ast01-6	2001	Fulica atra	"Russia: Volga river delta, Astrakhan district"	Europe	NA
+AKO90161|Koongol_virus	209	AKO90161	Koongol virus	MRM31	1960	Culex annulirostris	Australia	Oceania	Koongol
+AMR73391|Kowanyama_virus	264	AMR73391	Kowanyama virus	MRM1243	1963	Anopheles amictus	Australia	Oceania	Ungrouped
+AAA62607|La_Crosse_virus	2	AAA62607	La Crosse virus	La Crosse/original	NA	NA	USA	North America	California
+AAM94387|La_Crosse_virus	3	AAM94387	La Crosse virus	Human/78	1978	NA	USA	North America	California
+AAO33758|La_Crosse_virus	5	AAO33758	La Crosse virus	La Crosse/original	NA	NA	USA	North America	California
+ABB05227|La_Crosse_virus	6	ABB05227	La Crosse virus	77	1977	NA	USA	North America	California
+ABQ12631|La_Crosse_virus	7	ABQ12631	La Crosse virus	LACV/human/1960	1960	NA	USA: Minnesota	North America	California
+ABQ12635|La_Crosse_virus	8	ABQ12635	La Crosse virus	LACV/human/1978	1978	NA	USA: Wisconsin	North America	California
+ABQ12639|La_Crosse_virus	9	ABQ12639	La Crosse virus	LACV/mosquito/1978	1978	NA	USA: North Carolina	North America	California
+ADE28876|La_Crosse_virus	17	ADE28876	La Crosse virus	BEN_Lafayette_WI_2007	2007	Aedes triseriatus (mosquito)	"USA: Lafayette, WI"	North America	California
+ADE28877|La_Crosse_virus	18	ADE28877	La Crosse virus	NAT_Crawford_WI_2007	2007	Aedes triseriatus (mosquito)	"USA: Crawford, WI"	North America	California
+ADE28878|La_Crosse_virus	19	ADE28878	La Crosse virus	SVP_Vernon_WI_2006	2006	Aedes triseriatus (mosquito)	"USA: Vernon, WI"	North America	California
+ADE28879|La_Crosse_virus	20	ADE28879	La Crosse virus	NAT_Crawford_WI_2006	2006	Aedes triseriatus (mosquito)	"USA: Crawford, WI"	North America	California
+ADE28880|La_Crosse_virus	21	ADE28880	La Crosse virus	CGA_Houston_MN_2007	2007	Aedes triseriatus (mosquito)	"USA: Houston, MN"	North America	California
+ADG01815|La_Crosse_virus	22	ADG01815	La Crosse virus	Dallas/TX/2009	2009	Aedes albopictus	"USA: Dallas, TX"	North America	California
+ADG01816|La_Crosse_virus	23	ADG01816	La Crosse virus	Fort Bend County/TX/2009	2009	Aedes sp.	"USA: Fort Bend County, TX"	North America	California
+ADH04735|La_Crosse_virus	24	ADH04735	La Crosse virus	LACV/06/NY(2)-M (06MS350140)	2006	mosquito	USA: New York	North America	California
+ADH04736|La_Crosse_virus	25	ADH04736	La Crosse virus	LACV/00/NC-M (NC00-283)	2000	mosquito	USA: North Carolina	North America	California
+ADH04737|La_Crosse_virus	26	ADH04737	La Crosse virus	LACV/67/NY-M (67-8109)	1967	mosquito	USA: New York	North America	California
+ADH04738|La_Crosse_virus	27	ADH04738	La Crosse virus	LACV/06/NY(1)-M (06MS2900303)	2006	mosquito	USA: New York	North America	California
+ADH04739|La_Crosse_virus	28	ADH04739	La Crosse virus	LACV/06/NY(3)-M (06MS270036)	2006	mosquito	USA: New York	North America	California
+ADH04740|La_Crosse_virus	29	ADH04740	La Crosse virus	LACV/00/WV-M (WV00-3178)	2000	mosquito	USA: West Virginia	North America	California
+ADH04741|La_Crosse_virus	30	ADH04741	La Crosse virus	LACV/96/WV-M (WV96-3955)	1996	mosquito	USA: West Virginia	North America	California
+ADH04742|La_Crosse_virus	31	ADH04742	La Crosse virus	LACV/74/NY-M (74-32813)	1974	mosquito	USA: New York	North America	California
+ADH04743|La_Crosse_virus	32	ADH04743	La Crosse virus	LACV/93/MO-H	1993	Homo sapiens	USA: Missouri	North America	California
+ADH04744|La_Crosse_virus	33	ADH04744	La Crosse virus	LACV/95/OH-H (CCH-MB96)	1995	Homo sapiens	USA: Ohio	North America	California
+ADH04745|La_Crosse_virus	34	ADH04745	La Crosse virus	LACV/95/WV-H	1995	Homo sapiens	USA: West Virginia	North America	California
+ADH04746|La_Crosse_virus	35	ADH04746	La Crosse virus	LACV/03/NY-M (41030016)	2003	mosquito	USA: New York	North America	California
+ADH04747|La_Crosse_virus	36	ADH04747	La Crosse virus	LACV/97/NC-M (NC97-7306)	1997	mosquito	USA: North Carolina	North America	California
+ADH04748|La_Crosse_virus	37	ADH04748	La Crosse virus	LACV/65/OH-M (W17258)	1965	mosquito	USA: Ohio	North America	California
+AKP04421|La_Crosse_virus	218	AKP04421	La Crosse virus	NA	2012	Aedes triseriatus	USA	North America	California
+AKP04422|La_Crosse_virus	219	AKP04422	La Crosse virus	NA	2012	Aedes triseriatus	USA	North America	California
+AKP04423|La_Crosse_virus	220	AKP04423	La Crosse virus	NA	2012	Aedes triseriatus	USA	North America	California
+NP_671968|La_Crosse_virus	474	NP_671968	La Crosse virus	Human/78	1979	Homo sapiens	USA	North America	California
+ARI46630|Laguna_Larga_virus	325	ARI46630	Laguna Larga virus	CbaAr 426	1965	Ochlerotatus albifasciatus	Argentina	South America	Bunyamwera
+QLA47057|Las_Maloyas_virus	599	QLA47057	Las Maloyas virus	AG80-24	1980	Anopheles albitarsis	Argentina	South America	Anopheles A
+AEA02985|Leanyer_virus	45	AEA02985	Leanyer virus	AusN16701	1974	Anopheles meraukensis	"Australia: Leanyer, Northern Territory"	Oceania	Ungrouped
+QCT81361|Leanyer_virus	526	QCT81361	Leanyer virus	cs0002	1984	Culicoides sp.	Australia	Oceania	Ungrouped
+QCT81362|Leanyer_virus	527	QCT81362	Leanyer virus	cs0010	1974	mixed Culicoides species	Australia	Oceania	Ungrouped
+QCT81363|Leanyer_virus	528	QCT81363	Leanyer virus	cs503	1974	Culicoides sp.	Australia	Oceania	Ungrouped
+QFR36985|Lednice_virus	545	QFR36985	Lednice virus	110	1963	Culex modestus	Czechoslovakia	Europe	Turlock
+QFR36986|Lednice_virus	546	QFR36986	Lednice virus	6101	1972	Culex modestus	Czechoslovakia	Europe	Turlock
+QFR36987|Lednice_virus	547	QFR36987	Lednice virus	6118	1972	Culex modestus	Czechoslovakia	Europe	Turlock
+QLA46946|Lednice_virus	574	QLA46946	Lednice virus	6118	1963	Culex modestus	Czechoslovakia	Europe	Turlock
+QSW03630|Lichuan_virus	626	QSW03630	Lichuan virus	JXLC1806-2	2018	midges	China	Asia	Tete
+AXN72392|Lokern_virus	415	AXN72392	Lokern virus	FMS 4332	1962	Culex tarsalis	USA	North America	Bunyamwera
+AXP32026|Lokern_virus	426	AXP32026	Lokern virus	A 10391	NA	NA	NA	NA	Bunyamwera
+AKO90162|Lukuni_virus	210	AKO90162	Lukuni virus	TRVL 10076	1955	Ochlerotatus scapularis	Trinidad and Tobago	South America	Anopheles A
+QLA46942|Lukuni_virus	573	QLA46942	Lukuni virus	ColAn 57389	1976	Vertebrate	Colombia	South America	Anopheles A
+APA28997|Lumbo_virus	288	APA28997	Lumbo virus	SAAr 1881	1962	Aedes pembaensis	Mozambique	Africa	California
+YP_009666968|Lumbo_virus	688	YP_009666968	Lumbo virus	SAAr 1881	1962	Aedes pembaensis	Mozambique	Africa	California
+AEZ35261|Macaua_virus	58	AEZ35261	Macaua virus	BeAr306329	1976	Sabethes soperi	Brazil	South America	Wyeomyia
+YP_010085064|Macaua_virus	698	YP_010085064	Macaua virus	BeAr306329	1976	NA	Brazil	South America	Wyeomyia
+AHY22333|Madre_de_Dios_virus	126	AHY22333	Madre de Dios virus	FMD 1303	2007	Homo sapiens	Peru	South America	Simbu
+AIK67311|Madre_de_Dios_virus	139	AIK67311	Madre de Dios virus	INHRR 17a-10	2010	Cebus sp.	Venezuela: Anzoategui State	South America	Simbu
+AGW82138|Madrid_virus	98	AGW82138	Madrid virus	BT4075	1956	Homo sapiens; gender M; age 36	Panama	North America	Group C
+AVX48958|Madrid_virus	375	AVX48958	Madrid virus	BT4075	1961	Homo sapiens	Brazil	South America	Group C
+QLA46935|Madrid_virus	571	QLA46935	Madrid virus	BT 4075	1961	36 yr male human	Panama	North America	Group C
+YP_009362071|Madrid_virus	657	YP_009362071	Madrid virus	BT4075	1956	Homo sapiens; gender M; age 36	Panama	North America	Group C
+ARI46622|Maguari_virus	323	ARI46622	Maguari virus	BeAr 7272	1957	mosquito	Brazil	South America	Bunyamwera
+ARI46626|Maguari_virus	324	ARI46626	Maguari virus	CoAr 3363	1964	Aedes scapularis	Colombia	South America	Bunyamwera
+ARI46634|Maguari_virus	326	ARI46634	Maguari virus	AG83-1746	1982	Psorophora varinervis	Argentina	South America	Bunyamwera
+ARI46638|Maguari_virus	327	ARI46638	Maguari virus	OBS 6657	1998	Homo sapiens	Peru	South America	Bunyamwera
+ATJ04177|Maguari_virus	363	ATJ04177	Maguari virus	BeAr 7272	1957	mosquito	Brazil: Utinga forest	South America	Bunyamwera
+YP_010085104|Maguari_virus	704	YP_010085104	Maguari virus	BeAr 7272	1957	mosquito	Brazil: Utinga forest	South America	Bunyamwera
+ALP92135|Mahogany_hammock_virus	256	ALP92135	Mahogany hammock virus	FE4-2s	1964	Culex (Melanoconion) sp.	USA	North America	Guama
+AVX27620|Main_Drain_orthobunyavirus	370	AVX27620	Main Drain orthobunyavirus	BFS5015	1964	Culicoides variipennis	USA	North America	Bunyamwera
+AXP32030|Main_Drain_virus	427	AXP32030	Main Drain virus	72V2567	1972	Aedes vexans	USA: New Mexico	North America	Bunyamwera
+AXP32034|Main_Drain_virus	428	AXP32034	Main Drain virus	R4680	1974	Anopheles freeborni	"USA: Beaver Dam Wash, Arizona"	North America	Bunyamwera
+AHY22334|Manzanilla_virus	127	AHY22334	Manzanilla virus	TRVL 3586	1954	Alouatta seniculus	Trinidad and Tobago: Trinidad	South America	Simbu
+AKO22295|Manzanilla_virus	203	AKO22295	Manzanilla virus	DHL10M107	2010	Culex tritaeniorhynchus (mosquito)	China	Asia	Simbu
+AJD77604|Mapputta_virus	162	AJD77604	Mapputta virus	MRM186	1960	Anopheles meraukensis	Australia	Oceania	Mapputta
+AKO90170|Mapputta_virus	217	AKO90170	Mapputta virus	MRM186	1960	Anopheles meraukensis	Australia	Oceania	Mapputta
+AJD77607|Maprik_virus	163	AJD77607	Maprik virus	MK7532	1966	Verrallina funerea complex sp.	Australia	Oceania	Mapputta
+YP_009117083|Maprik_virus	649	YP_009117083	Maprik virus	MK7532	1966	Verrallina funerea complex sp.	Australia	Oceania	Mapputta
+AEY62397|Marituba_virus	55	AEY62397	Marituba virus	IQE7620	2008	Homo sapiens; gender F; age 14	Peru	South America	Group C
+AGW82126|Marituba_virus	95	AGW82126	Marituba virus	BeAn15	1954	Cebus apella	Brazil	South America	Group C
+QLA46931|Marituba_virus	570	QLA46931	Marituba virus	BeAn 15	1954	Sapajus apella (adult male) (Sentinel)	Brazil	South America	Group C
+YP_009362068|Marituba_virus	656	YP_009362068	Marituba virus	BeAn15	1954	Cebus apella	Brazil	South America	Group C
+AKO90169|Matruh_virus	216	AKO90169	Matruh virus	An 1047-61	1961	Sylvia curraca	Egypt	Africa	Tete
+ATB56198|Mburo_virus	355	ATB56198	Mburo virus	UGA5600	2010	Coquillettidia metallica	Uganda	Africa	Tete
+APA28993|Melao_virus	287	APA28993	Melao virus	TRVL 9375	1955	Ochlerotatus scapularis	Trinidad and Tobago	South America	California
+QIM41040|Melao_virus	552	QIM41040	Melao virus	MV/Homo sapiens/Haiti-1/2014	2014	Homo sapiens	Haiti	South America	California
+YP_009666970|Melao_virus	689	YP_009666970	Melao virus	TRVL 9375	1955	Ochlerotatus scapularis	Trinidad and Tobago	South America	California
+AHY22335|Mermet_virus	128	AHY22335	Mermet virus	AV 782	1964	Progne subis	USA	North America	Simbu
+ATI21267|Mermet_virus	359	ATI21267	Mermet virus	TX-809	2002	Mniotilia varia	USA	North America	Simbu
+YP_009666920|Mermet_virus	681	YP_009666920	Mermet virus	AV 782	1964	Progne subis	USA	North America	Simbu
+QLA46927|Minatitlan_virus	569	QLA46927	Minatitlan virus	M67U5	1967	Mesocricetus auratus	Mexico	North America	Minatitlan
+APM83098|Mirim_virus	297	APM83098	Mirim virus	BEAN7722	1957	Sapajus apella	Brazil	South America	Guama
+QLA46924|Mirim_virus	568	QLA46924	Mirim virus	BeAn 7722	1957	Sapajus apella (Sentinel)	Brazil	South America	Guama
+QLA47101|Mirim-like_virus	610	QLA47101	Mirim-like virus	75V1183	1974	Culex paracrybda	Ecuador	South America	Guama
+AKO90163|Moju_virus	211	AKO90163	Moju virus	BeAr 12590	1959	Culex (Melanoconion) sp.	Brazil	South America	Guama
+AIN37024|Mojui_dos_Campos_virus	148	AIN37024	Mojui dos Campos virus	BeAn276121	1976	bat(unknown species)	Brazil	South America	Nyando
+QLA47054|Moriche_virus	598	QLA47054	Moriche virus	TRVL 57896	1964	Culex amazonensis	Trinidad and Tobago	South America	Capim
+QLA46939|M_Poko_virus	572	QLA46939	M_Poko virus	BA 365	1966	Culex sp.	Central African Republic	Africa	Turlock
+AGX00981|Murrumbidgee_virus	103	AGX00981	Murrumbidgee virus	934	1997	Anopheles annulipes	"Australia: Griffith, New South Wales"	Oceania	Mapputta
+AKB96245|Murutucu_virus	186	AKB96245	Murutucu virus	BeAn 974	1955	Cebus apella	Brazil	South America	Group C
+AVX48966|Murutucu_virus	376	AVX48966	Murutucu virus	BeAn974	1955	Sapajus apella	Brazil	South America	Group C
+QLA46921|Murutucu_virus	567	QLA46921	Murutucu virus	BeAn 974	1955	Sapajus apella (Sentinel)	Brazil	South America	Group C
+AKB96247|Nepuyo_virus	188	AKB96247	Nepuyo virus	TRVL 18462	1957	Culex accelerans	Trinidad and Tobago: Trinidad	South America	Group C
+AVX48970|Nepuyo_virus	377	AVX48970	Nepuyo virus	BeAn10709	1959	sentinel mouse	Brazil	South America	Group C
+QLA46917|Nepuyo_virus	566	QLA46917	Nepuyo virus	HB7-451	1967	Artibeus jamaicensis serum	Honduras	North America	Group C
+QBH98892|Ness_Ziona_virus	475	QBH98892	Ness Ziona virus	H234A	2016	horse	Israel	Asia	Ungrouped
+AFY23376|Ngari_virus	70	AFY23376	Ngari virus	SUD-HKV66	1988	Homo sapiens	Sudan	Africa	Bunyamwera
+AFY23380|Ngari_virus	71	AFY23380	Ngari virus	SUD-HKV141	1988	Homo sapiens	Sudan	Africa	Bunyamwera
+AFY23384|Ngari_virus	72	AFY23384	Ngari virus	DakArD28542	1979	Aedes simpsoni	Senegal	Africa	Bunyamwera
+AFY23388|Ngari_virus	73	AFY23388	Ngari virus	9800535	1998	Homo sapiens	Kenya	Africa	Bunyamwera
+AFY23392|Ngari_virus	74	AFY23392	Ngari virus	9800521	1998	Homo sapiens	Somalia	Africa	Bunyamwera
+AGM34029|Ngari_virus	87	AGM34029	Ngari virus	Dakar D28542/4e	1980	NA	Senegal	Africa	Bunyamwera
+AII99851|Ngari_virus	137	AII99851	Ngari virus	Adrar	2010	small ruminant	Mauritania	Africa	Bunyamwera
+AIZ49759|Ngari_virus	158	AIZ49759	Ngari virus	ISL/TS2/5242/WT	2009	Rhipicephalus pulchellus	Kenya	Africa	Bunyamwera
+AIZ49760|Ngari_virus	159	AIZ49760	Ngari virus	TND/S1/19801/WT	2010	Anopheles funestus	Kenya	Africa	Bunyamwera
+UAM96496|Ngari_virus	634	UAM96496	Ngari virus	15Guidimaka/ME	2015	sheep	Mauritania	Africa	Bunyamwera
+UAM96499|Ngari_virus	635	UAM96499	Ngari virus	428Trarza/ME	2015	goat	Mauritania	Africa	Bunyamwera
+QLA46913|Nola_virus	565	QLA46913	Nola virus	DakAr B 2882	1970	Culex perfuscus	Central African Republic	Africa	Bakau
+AVX27622|Northway_virus	371	AVX27622	Northway virus	234	1971	Aedes sp.	USA	North America	Bunyamwera
+AXP32038|Northway_virus	429	AXP32038	Northway virus	234	1971	Aedes sp.	"USA: Alaska, Northway"	North America	Bunyamwera
+AIN37020|Nyando_virus	144	AIN37020	Nyando virus	MP401	1959	Anopheles funestus	Kenya	Africa	Nyando
+AIN37021|Nyando_virus	145	AIN37021	Nyando virus	UgAr1712	1996	Anopheles funestus	Uganda	Africa	Nyando
+AIN37022|Nyando_virus	146	AIN37022	Nyando virus	ERET147	1963	Eretmapodites sp.	Ethiopia	Africa	Nyando
+AIN37023|Nyando_virus	147	AIN37023	Nyando virus	YM176-66	1966	Aedes sp.	Cameroon	Africa	Nyando
+QSV52391|Nyando_virus	625	QSV52391	Nyando virus	KW_S1_25175	2017	mosquito	Kenya	Africa	Nyando
+YP_009362066|Nyando_virus	655	YP_009362066	Nyando virus	MP401	1959	Anopheles funestus	Kenya	Africa	Nyando
+AYC76694|Nyangole_orthobunyavirus	460	AYC76694	Nyangole orthobunyavirus	E0-202	2013	Homo sapiens	Uganda	Africa	Ungrouped
+QLA47051|Okola_virus	597	QLA47051	Okola virus	YM 50	1964	Eretmapodites chrysogaster	Cameroon	Africa	Tanga
+AGW82130|Oriboca_virus	96	AGW82130	Oriboca virus	BeAn17	1954	Cebus apella	Brazil	South America	Group C
+AVX48974|Oriboca_virus	378	AVX48974	Oriboca virus	BeAn17	1954	Sapajus apella	Brazil	South America	Group C
+QLA46907|Oriboca_virus	564	QLA46907	Oriboca virus	M17031	1954	Monkey	Brazil	South America	Group C
+YP_009362043|Oriboca_virus	650	YP_009362043	Oriboca virus	BeAn17	1954	Cebus apella	Brazil	South America	Group C
+QCY50873|Oropouche_orthobunyavirus	534	QCY50873	Oropouche orthobunyavirus	FCT00025/COL/2017	2017	Homo sapiens	Colombia	South America	Simbu
+UGL84925|Oropouche_orthobunyavirus	642	UGL84925	Oropouche orthobunyavirus	OROV/Saul/17225/2020	2020	Homo sapiens	French Guiana	South America	Simbu
+AAO11841|Oropouche_virus	4	AAO11841	Oropouche virus	BeAn19991	1960	Bradypus tridactylus	Brazil	South America	Simbu
+AJE24678|Oropouche_virus	165	AJE24678	Oropouche virus	BeAn19991	1960	Bradypus tridactylus	Brazil	South America	Simbu
+AJR29359|Oropouche_virus	167	AJR29359	Oropouche virus	TRVL9760	1955	NA	"Trinidad and Tobago: Trinidad, Sangre Grande"	South America	Simbu
+AJT39453|Oropouche_virus	168	AJT39453	Oropouche virus	BeH759146	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39465|Oropouche_virus	170	AJT39465	Oropouche virus	BeH759620	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39469|Oropouche_virus	171	AJT39469	Oropouche virus	BeH759529	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39473|Oropouche_virus	172	AJT39473	Oropouche virus	BeH759040	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39477|Oropouche_virus	173	AJT39477	Oropouche virus	BeH759025	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39485|Oropouche_virus	174	AJT39485	Oropouche virus	BeH759021	2009	Homo sapiens	Brazil	South America	Simbu
+AJT39489|Oropouche_virus	175	AJT39489	Oropouche virus	BeH759024	2009	Homo sapiens	Brazil	South America	Simbu
+ALB07195|Oropouche_virus	223	ALB07195	Oropouche virus	TVP-19244/DEI-216	1992	Homo sapiens	Peru	South America	Simbu
+ALB07196|Oropouche_virus	224	ALB07196	Oropouche virus	TVP-19249/GML-444672	1989	Homo sapiens	Panama	North America	Simbu
+ALB07198|Oropouche_virus	225	ALB07198	Oropouche virus	TVP-19254/GML-480914	1989	Homo sapiens	Panama	North America	Simbu
+ALB07199|Oropouche_virus	226	ALB07199	Oropouche virus	TVP-19256/IQE-7894	2008	Homo sapiens	Peru	South America	Simbu
+ALB07200|Oropouche_virus	227	ALB07200	Oropouche virus	TVP-19257/IQT-1690	1995	Homo sapiens	Peru	South America	Simbu
+ALB07201|Oropouche_virus	228	ALB07201	Oropouche virus	TVP-19258/IQT-4083	1997	Homo sapiens	Peru	South America	Simbu
+ALB07202|Oropouche_virus	229	ALB07202	Oropouche virus	TVP-19259/IQT-7085	1998	Homo sapiens	Peru	South America	Simbu
+ALB07203|Oropouche_virus	230	ALB07203	Oropouche virus	TVP-19260/MD-203	1994	Homo sapiens	Peru	South America	Simbu
+ALB07204|Oropouche_virus	231	ALB07204	Oropouche virus	TVP-19262/OBS-9478	2000	Homo sapiens	Peru	South America	Simbu
+ALB07205|Oropouche_virus	232	ALB07205	Oropouche virus	TVP-19264/PAN-481126	1999	Homo sapiens	Panama	North America	Simbu
+ASZ70170|Oropouche_virus	347	ASZ70170	Oropouche virus	NA	1961	NA	NA	South America	Simbu
+ATJ00128|Oropouche_virus	361	ATJ00128	Oropouche virus	OROV/EC/Esmeraldas/087/2016	2016	Homo sapiens	Ecuador	South America	Simbu
+AWU66909|Oropouche_virus	388	AWU66909	Oropouche virus	BeH 543100	1996	Homo sapiens	Brazil	South America	Simbu
+AWU66913|Oropouche_virus	389	AWU66913	Oropouche virus	BeH 389865	1980	Homo sapiens	Brazil	South America	Simbu
+AWU66917|Oropouche_virus	390	AWU66917	Oropouche virus	BeH 390242	1980	Homo sapiens	Brazil	South America	Simbu
+AWU66921|Oropouche_virus	391	AWU66921	Oropouche virus	BeH 472433	1988	Homo sapiens	Brazil	South America	Simbu
+AWU66925|Oropouche_virus	392	AWU66925	Oropouche virus	BeH 472435	1988	Homo sapiens	Brazil	South America	Simbu
+AWU66929|Oropouche_virus	393	AWU66929	Oropouche virus	BeH 421086	1993	Homo sapiens	Brazil	South America	Simbu
+AWU66933|Oropouche_virus	394	AWU66933	Oropouche virus	BeAn 626990	2000	Callithrix sp.	Brazil	South America	Simbu
+AWU66937|Oropouche_virus	395	AWU66937	Oropouche virus	BeAr 19886	1960	Ochlerotatus serratus	Brazil	South America	Simbu
+AWU66941|Oropouche_virus	396	AWU66941	Oropouche virus	BeH 29086	1961	Homo sapiens	Brazil	South America	Simbu
+AWU66957|Oropouche_virus	397	AWU66957	Oropouche virus	BeAn 206119	1971	Bradypus tridactylus	Brazil	South America	Simbu
+AWU66961|Oropouche_virus	398	AWU66961	Oropouche virus	BeAn 208402	1971	Bradypus tridactylus	Brazil	South America	Simbu
+AWU66965|Oropouche_virus	399	AWU66965	Oropouche virus	BeAn 208819	1971	Bradypus tridactylus	Brazil	South America	Simbu
+AWU66969|Oropouche_virus	400	AWU66969	Oropouche virus	BeH 355173	1978	Homo sapiens	Brazil	South America	Simbu
+AWU66973|Oropouche_virus	401	AWU66973	Oropouche virus	BeAr 366927	1979	Culicoides paraensis	Brazil	South America	Simbu
+AWU66977|Oropouche_virus	402	AWU66977	Oropouche virus	BeH 385591	1980	Homo sapiens	Brazil	South America	Simbu
+AWU66981|Oropouche_virus	403	AWU66981	Oropouche virus	BeH 532314	1994	Homo sapiens	Brazil	South America	Simbu
+AWU66985|Oropouche_virus	404	AWU66985	Oropouche virus	BeH 532422	1994	Homo sapiens	Brazil	South America	Simbu
+AWU66993|Oropouche_virus	405	AWU66993	Oropouche virus	BeH 532500	1994	Homo sapiens	Brazil	South America	Simbu
+AWU66997|Oropouche_virus	406	AWU66997	Oropouche virus	BeH 541140	1994	Homo sapiens	Brazil	South America	Simbu
+AWU67001|Oropouche_virus	407	AWU67001	Oropouche virus	BeH 543629	1996	Homo sapiens	Brazil	South America	Simbu
+AWU67005|Oropouche_virus	408	AWU67005	Oropouche virus	BeH 543760	1996	Homo sapiens	Brazil	South America	Simbu
+AWU67009|Oropouche_virus	409	AWU67009	Oropouche virus	BeH 543857	1996	Homo sapiens	Brazil	South America	Simbu
+AWU67013|Oropouche_virus	410	AWU67013	Oropouche virus	PPS 522 H 669314	2003	Homo sapiens	Brazil	South America	Simbu
+AWU67025|Oropouche_virus	411	AWU67025	Oropouche virus	PMOH 682431	2004	Homo sapiens	Brazil	South America	Simbu
+AWU67029|Oropouche_virus	412	AWU67029	Oropouche virus	BeH 708139	2006	Homo sapiens	Brazil	South America	Simbu
+AWU67037|Oropouche_virus	413	AWU67037	Oropouche virus	BeH 708717	2006	Homo sapiens	Brazil	South America	Simbu
+AWU67041|Oropouche_virus	414	AWU67041	Oropouche virus	BeH 498913	1990	Homo sapiens	Brazil	South America	Simbu
+QFI57493|Oropouche_virus	541	QFI57493	Oropouche virus	OROV/EC/Esmeraldas/057/2016	2016	Homo sapiens	Ecuador	South America	Simbu
+QFI57494|Oropouche_virus	542	QFI57494	Oropouche virus	OROV/EC/Esmeraldas/155/2016	2016	Homo sapiens	Ecuador	South America	Simbu
+QFI57495|Oropouche_virus	543	QFI57495	Oropouche virus	OROV/EC/Esmeraldas/171/2016	2016	Homo sapiens	Ecuador	South America	Simbu
+QFI57497|Oropouche_virus	544	QFI57497	Oropouche virus	OROV/EC/Esmeraldas/210/2016	2016	Homo sapiens	Ecuador	South America	Simbu
+QIM41036|Oropouche_virus	551	QIM41036	Oropouche virus	OV/Homo sapiens/Haiti-1/2014	2014	Homo sapiens	Haiti	South America	Simbu
+QWT43265|Oropouche_virus	627	QWT43265	Oropouche virus	Bel90435/H853382	2018	Homo sapiens	Brazil	South America	Simbu
+AGW82153|Orthobunyavirus_FSL2923	101	AGW82153	Orthobunyavirus FSL2923	FSL2923	2006	Homo sapiens; gender M; age 59	Peru: Yurimaguas	South America	Group C
+AWU66302|Orthobunyavirus_sp.	384	AWU66302	Orthobunyavirus sp.	IQE3155	2006	Homo sapiens; gender M; age 27	Peru: Iquitos	South America	Group C
+AWU66318|Orthobunyavirus_sp.	385	AWU66318	Orthobunyavirus sp.	FMD1881	2008	Homo sapiens; gender M; age 28	Peru: Puerto Maldonado	South America	Group C
+AWU66320|Orthobunyavirus_sp.	386	AWU66320	Orthobunyavirus sp.	IQE7743	2008	Homo sapiens; gender F; age 46	Peru: Iquitos	South America	Group C
+AWU66324|Orthobunyavirus_sp.	387	AWU66324	Orthobunyavirus sp.	FMD2329	2009	Homo sapiens; gender M; age 22	Peru: Puerto Maldonado	South America	Group C
+AGS56984|Oya_virus	90	AGS56984	Oya virus	SC0806	2008	mosquito	China	Asia	Ungrouped
+ARF07019|Oya_virus	322	ARF07019	Oya virus	NIV86209	1986	Homo sapiens	India	Asia	Ungrouped
+AXP32042|Oya_virus	430	AXP32042	Oya virus	VN04-2108	2002	Culex sp.	"Viet Nam: Cat Que, Ha Tay province"	Asia	Ungrouped
+QEV83986|Oya_virus	540	QEV83986	Oya virus	GD18234	2018	midge	China	Asia	Ungrouped
+AEE01391|Oyo_virus	47	AEE01391	Oyo virus	NA	1964	NA	Nigeria	Africa	Ungrouped
+QLA47048|Pacora_virus	596	QLA47048	Pacora virus	J19	1958	adult female Culex dunni	Panama	North America	Ungrouped
+QLA47044|Pahayokee_virus	595	QLA47044	Pahayokee virus	FE3-52F	1963	Culex (Melanoconion) sp.	USA	North America	Patois
+AXP33560|Patois_virus	444	AXP33560	Patois virus	63A49	1963	Culex sp.	Mexico	North America	Patois
+QLA46901|Patois_virus	563	QLA46901	Patois virus	BT 4971	1961	Sigmodon hispidus	Panama	North America	Patois
+YP_009667042|Patois_virus	696	YP_009667042	Patois virus	63A49	1963	Culex sp.	Mexico	North America	Patois
+AXP32046|Peaton_virus	431	AXP32046	Peaton virus	CSIRO 110	1976	Culicoides brevitarsis	"Australia: Peachester, Queensland"	Oceania	Simbu
+QCT81364|Peaton_virus	529	QCT81364	Peaton virus	cs245	1976	Culicoides brevitarsis	Australia	Oceania	Simbu
+QCT81365|Peaton_virus	530	QCT81365	Peaton virus	cs322	1980	Bos taurus	Australia	Oceania	Simbu
+QCT81366|Peaton_virus	531	QCT81366	Peaton virus	cs347	1980	Culicoides brevitarsis	Australia	Oceania	Simbu
+AJT39457|Perdoes_virus	169	AJT39457	Perdoes virus	BeAn790177	2012	Callithrix penicillata	Brazil	South America	Simbu
+ARI46646|Playas_virus	329	ARI46646	Playas virus	75V3066	1975	Aedes taeniorhynchus	Ecuador	South America	Bunyamwera
+ARI46654|Playas_virus	330	ARI46654	Playas virus	75V5758	1975	Aedeomyia (ochler) taeniorhynchus	Ecuador	South America	Bunyamwera
+AIN37016|Pongola_virus	140	AIN37016	Pongola virus	SA Ar1	1955	Aedes circumluteolus	South Africa	Africa	Bwamba
+AIN37017|Pongola_virus	141	AIN37017	Pongola virus	191B-07	2006	Aedes cf. mcintoshi/circumluteolus	Kenya	Africa	Bwamba
+ATJ04182|Potosi_virus	364	ATJ04182	Potosi virus	IL94-1899	1994	Aedes albopictus	USA: Illinois	North America	Bunyamwera
+AXP32050|Potosi_virus	432	AXP32050	Potosi virus	89-3380	1989	Aedes albopictus	"USA: Potosi, Missouri"	North America	Bunyamwera
+YP_009666985|Potosi_virus	692	YP_009666985	Potosi virus	IL94-1899	1994	Aedes albopictus	USA: Illinois	North America	Bunyamwera
+ATB53300|Pueblo_Viejo_virus	353	ATB53300	Pueblo Viejo virus	75V-2621	1975	Aedeomyia squamipennis	Ecuador	South America	Gamboa
+QLA46897|Pueblo_Viejo_virus	562	QLA46897	Pueblo Viejo virus	E4-816	1974	Aedeomyia squamipennis	Ecuador	South America	Gamboa
+AKB96246|Restan_virus	187	AKB96246	Restan virus	TRVL 51144	1963	Culex (Melanoconium) sp.	Trinidad and Tobago: Trinidad	South America	Group C
+QLA46893|Restan_virus	561	QLA46893	Restan virus	TRVL 51144	1963	Culex sp.	Trinidad and Tobago	South America	Group C
+AGX00984|Salt_ash_virus	104	AGX00984	Salt ash virus	931	1992	Aedes vigilax	"Australia: Port Stephens, New South Wales"	Oceania	Mapputta
+APA28989|San_Angelo_virus	286	APA28989	San Angelo virus	20230	1958	Anopheles pseudopunctipennis	USA: Texas	North America	California
+YP_009666975|San_Angelo_virus	690	YP_009666975	San Angelo virus	20230	1958	Anopheles pseudopunctipennis	USA: Texas	North America	California
+QLA47036|San_Juan_virus	594	QLA47036	San Juan virus	75V446	1975	Aedeomyia squamipennis	Ecuador	South America	Gamboa
+AXP32054|Santa_Rosa_virus	433	AXP32054	Santa Rosa virus	M2-1493	1972	Ochlerotatus angustivittatus	Mexico: Durango(Santa Rosa)	North America	Bunyamwera
+YP_006590073|Sathuperi_orthobunyavirus	644	YP_006590073	Sathuperi orthobunyavirus	NA	1999	Bos taurus	Japan	Asia	Simbu
+BCH47627|Schmallenberg_orthobunyavirus	471	BCH47627	Schmallenberg orthobunyavirus	GB/697/2012	2012	Ovis aries	United Kingdom	Europe	Simbu
+AGC84160|Schmallenberg_virus	80	AGC84160	Schmallenberg virus	Germany	2011	NA	Germany	Europe	Simbu
+AGD94650|Schmallenberg_virus	81	AGD94650	Schmallenberg virus	Na1-CNS	2012	sheep	Belgium	Europe	Simbu
+AGD94653|Schmallenberg_virus	82	AGD94653	Schmallenberg virus	Na2-CNS	2012	sheep	Belgium	Europe	Simbu
+AGD94654|Schmallenberg_virus	83	AGD94654	Schmallenberg virus	Na2-BHK21-P2	2012	sheep	Belgium	Europe	Simbu
+AGD94655|Schmallenberg_virus	84	AGD94655	Schmallenberg virus	Na2-BHK21-P10	2012	sheep	Belgium	Europe	Simbu
+AGU16231|Schmallenberg_virus	92	AGU16231	Schmallenberg virus	HL1	2011	Ovis aries	Netherlands	Europe	Simbu
+AGU16235|Schmallenberg_virus	93	AGU16235	Schmallenberg virus	F6	2011	Bos taurus	Netherlands	Europe	Simbu
+AIP98320|Schmallenberg_virus	150	AIP98320	Schmallenberg virus	79.4	2012	Bos taurus	"Switzerland: Muehleberg, BE"	Europe	Simbu
+AIP98325|Schmallenberg_virus	151	AIP98325	Schmallenberg virus	175.2	2012	Bos taurus	Liechtenstein: Bendern	Europe	Simbu
+AIP98326|Schmallenberg_virus	152	AIP98326	Schmallenberg virus	200.2	2012	Bos taurus	Liechtenstein: Bendern	Europe	Simbu
+AKA63349|Schmallenberg_virus	178	AKA63349	Schmallenberg virus	BH119/14-1/2	2014	Bos taurus	Germany	Europe	Simbu
+AKA63350|Schmallenberg_virus	179	AKA63350	Schmallenberg virus	BH119/14-3/4	2014	Bos taurus	Germany	Europe	Simbu
+AKA63351|Schmallenberg_virus	180	AKA63351	Schmallenberg virus	D495/12-1	2012	Bos taurus	Germany	Europe	Simbu
+AKA63352|Schmallenberg_virus	181	AKA63352	Schmallenberg virus	BH652/12	2012	Bos taurus	Germany	Europe	Simbu
+AKA63353|Schmallenberg_virus	182	AKA63353	Schmallenberg virus	BH619/12	2012	Bos taurus	Germany	Europe	Simbu
+AKA63354|Schmallenberg_virus	183	AKA63354	Schmallenberg virus	BH132/14	2014	Bos taurus	Germany	Europe	Simbu
+AQY63024|Schmallenberg_virus	315	AQY63024	Schmallenberg virus	SBV-Hun1	2014	Bos taurus	Hungary	Europe	Simbu
+AQY63028|Schmallenberg_virus	316	AQY63028	Schmallenberg virus	SBV-Hun2	2014	Bos taurus	Hungary	Europe	Simbu
+AQY63032|Schmallenberg_virus	317	AQY63032	Schmallenberg virus	SBV-Hun3	2014	Bos taurus	Hungary	Europe	Simbu
+AQY63036|Schmallenberg_virus	318	AQY63036	Schmallenberg virus	SBV-Hun4	2012	Bos taurus	Hungary	Europe	Simbu
+AQY63040|Schmallenberg_virus	319	AQY63040	Schmallenberg virus	SBV-Hun5	2014	Bos taurus	Hungary	Europe	Simbu
+AQY63044|Schmallenberg_virus	320	AQY63044	Schmallenberg virus	SBV-Hun6	2014	Bos taurus	Hungary	Europe	Simbu
+AQY63048|Schmallenberg_virus	321	AQY63048	Schmallenberg virus	SBV-Hun7	2014	Bos taurus	Hungary	Europe	Simbu
+AVK60045|Schmallenberg_virus	366	AVK60045	Schmallenberg virus	PL_12_1018-8_bov	2012	Bos taurus	Poland	Europe	Simbu
+AVK60046|Schmallenberg_virus	367	AVK60046	Schmallenberg virus	PL_13_130-6_ovis	2013	Ovis aries	Poland	Europe	Simbu
+AVK60047|Schmallenberg_virus	368	AVK60047	Schmallenberg virus	PL_12_1016-32_bov	2012	Bos taurus	Poland	Europe	Simbu
+YP_009666911|Schmallenberg_virus	678	YP_009666911	Schmallenberg virus	F6	2011	Bos taurus	Netherlands	Europe	Simbu
+AXP32058|Sedlec_virus	434	AXP32058	Sedlec virus	Av 172	1984	Acrocephalus scirpaceus	Czech Republic: Sedlec	Europe	Simbu
+APA28985|Serra_do_Navio_virus	285	APA28985	Serra do Navio virus	BeAr 103645	1966	Aedes fulvus	Brazil: Ampa	South America	California
+YP_009666980|Serra_do_Navio_virus	691	YP_009666980	Serra do Navio virus	BeAr 103645	1966	Aedes fulvus	Brazil: Ampa	South America	California
+YP_006590076|Shamonda_orthobunyavirus	645	YP_006590076	Shamonda orthobunyavirus	Ib An 5550	NA	NA	NA	Africa	Simbu
+AXP33561|Shark_River_virus	445	AXP33561	Shark River virus	64U80	1964	sentinel hamster	Mexico	North America	Patois
+AXP32062|Shokwe_virus	435	AXP32062	Shokwe virus	SAAr 4042	1962	Aedes cumminsii	"South Africa: Ndumu, Natal, Shokwe pan"	Africa	Bunyamwera
+AHE76170|Shuni_orthobunyavirus	116	AHE76170	Shuni orthobunyavirus	SAE1809	2009	equine	South Africa	Africa	Simbu
+AQM56672|Shuni_orthobunyavirus	300	AQM56672	Shuni orthobunyavirus	220681	2014	sheep	Israel	Asia	Simbu
+AWL83658|Shuni_orthobunyavirus	380	AWL83658	Shuni orthobunyavirus	ISR-129/16	2016	sheep	Israel	Asia	Simbu
+AWL83662|Shuni_orthobunyavirus	381	AWL83662	Shuni orthobunyavirus	ISR-242/16	2016	cattle	Israel	Asia	Simbu
+AWL83666|Shuni_orthobunyavirus	382	AWL83666	Shuni orthobunyavirus	ISR-2067/16	2016	cattle	Israel	Asia	Simbu
+AWL83670|Shuni_orthobunyavirus	383	AWL83670	Shuni orthobunyavirus	ISR-2162/16	2016	cattle	Israel	Asia	Simbu
+YP_006590082|Simbu_orthobunyavirus	646	YP_006590082	Simbu orthobunyavirus	NA	NA	NA	NA	NA	Simbu
+ABW87611|Snowshoe_hare_virus	11	ABW87611	Snowshoe hare virus	NA	1959	Lepus americanus	USA: Montana	North America	California
+QCF29637|Snowshoe_hare_virus	477	QCF29637	Snowshoe hare virus	Mass Hockomock	1969	Ochlerotatus canadensis	"USA: Massachusetts, Hockomock Swamp"	North America	California
+YP_010085080|Snowshoe_hare_virus	701	YP_010085080	Snowshoe hare virus	NA	1959	Lepus americanus	USA: Montana	North America	California
+AEZ35264|Sororoca_virus	59	AEZ35264	Sororoca virus	BeAr32149	1961	Sabethini spp.	Brazil	South America	Wyeomyia
+YP_009666895|Sororoca_virus	674	YP_009666895	Sororoca virus	BeAr32149	1961	NA	Brazil	South America	Wyeomyia
+APA28981|South_River_virus	284	APA28981	South River virus	NJO-94F	1960	Anopheles crucians	USA: New Jersey	North America	California
+ASY08211|Tacaiuma_orthobunyavirus	345	ASY08211	Tacaiuma orthobunyavirus	BeAn73	1955	Cebus apella	Brazil	South America	Anopheles A
+ASY08212|Tacaiuma_orthobunyavirus	346	ASY08212	Tacaiuma orthobunyavirus	BeAr617554	1999	Haemagogus (Hag) janthinomys	Brazil	South America	Anopheles A
+QLA46889|Tacaiuma_orthobunyavirus	560	QLA46889	Tacaiuma orthobunyavirus	SpH 32580	1975	Homo sapiens	Brazil	South America	Anopheles A
+UEE94601|Tahyna_orthobunyavirus	637	UEE94601	Tahyna orthobunyavirus	Austria/OadD806/2019	2019	Aedes vexans	"Austria: Lower Austria, Rohrau"	Europe	California
+UEE94602|Tahyna_orthobunyavirus	638	UEE94602	Tahyna orthobunyavirus	Austria/OadD823/2019	2019	Aedes vexans	"Austria: Lower Austria, Rohrau"	Europe	California
+ACF72885|Tahyna_virus	14	ACF72885	Tahyna virus	XJ0625	2006	Culex sp. (mosquito)	China	Asia	California
+ADQ08670|Tahyna_virus	41	ADQ08670	Tahyna virus	Prototype '92' Bardos	1958	Aedes caspius	Czechoslovakia	Europe	California
+ADQ08671|Tahyna_virus	42	ADQ08671	Tahyna virus	Prototype '92' Bardos	1958	Aedes caspius	Czechoslovakia	Europe	California
+ADQ08672|Tahyna_virus	43	ADQ08672	Tahyna virus	Souche D C14019-29	1968	NA	France	Europe	California
+ADQ08673|Tahyna_virus	44	ADQ08673	Tahyna virus	22595-6	1984	NA	Czechoslovakia	Europe	California
+AEH02867|Tahyna_virus	48	AEH02867	Tahyna virus	prototype Bardos 92	1958	Aedes caspius (mosquito)	Slovakia	Europe	California
+AEH02868|Tahyna_virus	49	AEH02868	Tahyna virus	XJ0708	2007	Aedes vexans	China	Asia	California
+AEH02872|Tahyna_virus	50	AEH02872	Tahyna virus	XJ0710	2007	Aedes vexans	China	Asia	California
+AGZ03701|Tahyna_virus	105	AGZ03701	Tahyna virus	29	1963	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03702|Tahyna_virus	106	AGZ03702	Tahyna virus	76	1963	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03703|Tahyna_virus	107	AGZ03703	Tahyna virus	89	1963	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03704|Tahyna_virus	108	AGZ03704	Tahyna virus	94	1963	Aedes cantans	Czechoslovakia	Europe	California
+AGZ03705|Tahyna_virus	109	AGZ03705	Tahyna virus	181	1962	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03706|Tahyna_virus	110	AGZ03706	Tahyna virus	181/57	1962	NA	Czechoslovakia	Europe	California
+AGZ03707|Tahyna_virus	111	AGZ03707	Tahyna virus	236	1958	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03708|Tahyna_virus	112	AGZ03708	Tahyna virus	1014	1964	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03709|Tahyna_virus	113	AGZ03709	Tahyna virus	4020	1966	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03710|Tahyna_virus	114	AGZ03710	Tahyna virus	4034	1966	Aedes vexans	Czechoslovakia	Europe	California
+AGZ03711|Tahyna_virus	115	AGZ03711	Tahyna virus	4057	1966	Aedes vexans	Czechoslovakia	Europe	California
+YP_010085094|Tahyna_virus	703	YP_010085094	Tahyna virus	XJ0625	2006	Culex sp. (mosquito)	China	Asia	California
+AEZ35267|Taiassui_virus	60	AEZ35267	Taiassui virus	BeAr671	1988	Sabethini spp.	Brazil	South America	Wyeomyia
+QLA47025|Tanga_virus	593	QLA47025	Tanga virus	MP 1329	1962	Anopheles funestus	Tanzania	Africa	Tanga
+AKO90164|Tataguine_virus	212	AKO90164	Tataguine virus	H9963	1971	NA	Nigeria	Africa	Tanga
+ATI21259|Tataguine_virus	356	ATI21259	Tataguine virus	IBH10362	1966	Homo sapiens	Nigeria	Africa	Tanga
+AXS76878|Tataguine_virus	450	AXS76878	Tataguine virus	HB72P583	1972	Homo sapiens	Central African Republic: Batangafo region	Africa	Tanga
+QLA46886|Tataguine_virus	559	QLA46886	Tataguine virus	79V1463	1979	Anopheles sp.	Gambia	Africa	Tanga
+QLA47022|Telok_Forest_virus	592	QLA47022	Telok Forest virus	MalP 72-4	1972	Macaca nemestrina	Malaysia	Asia	Tanjong Rabok
+ACV95628|Tensaw_virus	15	ACV95628	Tensaw virus	TSV-FL06	2006	mosquito	USA	North America	Bunyamwera
+ACV95629|Tensaw_virus	16	ACV95629	Tensaw virus	TSV-FE3-66FB	1963	mosquito	USA	North America	Bunyamwera
+AXP32066|Tensaw_virus	436	AXP32066	Tensaw virus	A9-171B	1960	Anopheles crucians	"USA: Baldwin County, Alabama"	North America	Bunyamwera
+YP_009666865|Tensaw_virus	670	YP_009666865	Tensaw virus	TSV-FE3-66FB	1963	mosquito	USA	North America	Bunyamwera
+QLA47018|Termeil_virus	591	QLA47018	Termeil virus	BP 8090	1972	Ochlerotatus camptorhynchus	Australia	Oceania	Ungrouped
+AJT55735|Tete_orthobunyavirus	176	AJT55735	Tete orthobunyavirus	SaAn 3518	1959	Ploceus cucullatus	"South Africa: Natal, Ndumu"	Africa	Tete
+AKO90165|Tete_orthobunyavirus	213	AKO90165	Tete orthobunyavirus	SAAn 3518	1959	Ploceus cucullatus	South Africa	Africa	Tete
+YP_009512923|Tete_orthobunyavirus	667	YP_009512923	Tete orthobunyavirus	SAAn 3518	1959	Ploceus cucullatus	South Africa	Africa	Tete
+AXP32070|Thimiri_orthobunyavirus	437	AXP32070	Thimiri orthobunyavirus	VRC 66414	1963	Ardeola grayii (sykes)	"India: Thimiri, Walljah Tk., N. Arcot District"	Asia	Simbu
+QCT81367|Thimiri_orthobunyavirus	532	QCT81367	Thimiri orthobunyavirus	cs0001	1979	Culicoides histrio	Australia	Oceania	Simbu
+QLA47014|Timboteua_virus	590	QLA47014	Timboteua virus	BeAn 116382	1967	Mus musculus (Sentinal)	Brazil	South America	Guama
+AXP32074|Tinaroo_virus	438	AXP32074	Tinaroo virus	CSIRO 153	1978	Culicoides brevitarsis	"Australia: Kairi Station, Queensland"	Oceania	Simbu
+QCT81368|Tinaroo_virus	533	QCT81368	Tinaroo virus	cs153	1978	Culicoides brevitarsis	Australia	Oceania	Simbu
+ARI46642|Tlacotalpan_virus	328	ARI46642	Tlacotalpan virus	61D240	1961	Mansonia titillans	Mexico	North America	Bunyamwera
+AXP32078|Tlacotalpan_virus	439	AXP32078	Tlacotalpan virus	61D240	1961	Mansonia titillans	"Mexico: Tlacotalpan, Veracruz"	North America	Bunyamwera
+AZM68665|Triniti_virus	463	AZM68665	Triniti virus	BeAn235467	1973	rodent	Brazil	South America	Ungrouped
+AZM68666|Triniti_virus	464	AZM68666	Triniti virus	BeAr800584	2014	Ochlerotatus fulvus	Brazil	South America	Ungrouped
+AZM68667|Triniti_virus	465	AZM68667	Triniti virus	TVRl7994	1955	Trichoprosopon sp.	Trinidad and Tobago	South America	Ungrouped
+ALI93835|Trivittatus_virus	237	ALI93835	Trivittatus virus	Eklund	1948	Aedes trivittatus	"USA: Bismarck, ND"	North America	California
+APA34119|Trivittatus_virus	293	APA34119	Trivittatus virus	AR42	2016	Aedes trivittatus	"USA: Denton County, Texas"	North America	California
+YP_010085079|Trivittatus_virus	700	YP_010085079	Trivittatus virus	Eklund	1948	Aedes trivittatus	"USA: Bismarck, ND"	North America	California
+AEZ35270|Tucunduba_virus	61	AEZ35270	Tucunduba virus	BeAr278	1955	Wyeomyia spp.	Brazil	South America	Wyeomyia
+AQV08281|Tucunduba_virus	312	AQV08281	Tucunduba virus	BeAR544767	1996	Wyeomyia sp.	Brazil	South America	Wyeomyia
+AQV08284|Tucunduba_virus	313	AQV08284	Tucunduba virus	BeAR643361	2001	Limatus flavisetosus	Brazil	South America	Wyeomyia
+AQV08287|Tucunduba_virus	314	AQV08287	Tucunduba virus	BeAR701402	2006	Psorophora ferox	Brazil	South America	Wyeomyia
+QLA46842|Turlock_orthobunyavirus	555	QLA46842	Turlock orthobunyavirus	USA 847-32	1954	Culex tarsalis	USA	North America	Turlock
+AKO90167|Umbre_virus	214	AKO90167	Umbre virus	IG1424	1955	Culex bitaeniorhynchus	India	Asia	Turlock
+QCY54400|Umbre_virus	535	QCY54400	Umbre virus	NIV809365	1980	NA	"India: Muduvadi District, Karnataka State"	Asia	Turlock
+QCY54402|Umbre_virus	536	QCY54402	Umbre virus	NIV631308	1963	NA	"India: Vellore District, Tamil Nadu State"	Asia	Turlock
+QCY54408|Umbre_virus	537	QCY54408	Umbre virus	NIV7441	1956	NA	"India: Kammavanpet District,Tamil Nadu State"	Asia	Turlock
+QCY54413|Umbre_virus	538	QCY54413	Umbre virus	NIV16283	1957	NA	"India: Sathuperi District, Tamil Nadu State"	Asia	Turlock
+QHA34087|Umbre_virus	548	QHA34087	Umbre virus	IP	2017	Homo sapiens	France	Europe	Turlock
+QHA34169|Umbre_virus	549	QHA34169	Umbre virus	Marna	2019	Homo sapiens	France	Europe	Turlock
+YP_009664559|Umbre_virus	669	YP_009664559	Umbre virus	IG1424	1955	Culex bitaeniorhynchus	India	Asia	Turlock
+AHY22336|Utinga_virus	129	AHY22336	Utinga virus	Be An 84785	1965	Bradypus tridactylus	Brazil	South America	Simbu
+YP_009666923|Utinga_virus	682	YP_009666923	Utinga virus	Be An 84785	1965	Bradypus tridactylus	Brazil	South America	Simbu
+AHY22337|Utive_virus	130	AHY22337	Utive virus	Pan An 48878	1975	Bradypus variegatus	Panama	North America	Simbu
+QLA46883|Vinces_virus	558	QLA46883	Vinces virus	24188	1976	sentinel hamster	Ecuador	South America	Group C
+QLA46879|Weldona_virus	557	QLA46879	Weldona virus	77V5691	1976	pool of 120 midges	USA	North America	Tete
+AKO90168|Witwatersrand_virus	215	AKO90168	Witwatersrand virus	SAAr 1062	1958	Culex rubinotus	South Africa	Africa	Ungrouped
+AQM74139|Wolkberg_virus	301	AQM74139	Wolkberg virus	2562_SA3	2013	NA	NA	NA	Nyando
+AQM74142|Wolkberg_virus	302	AQM74142	Wolkberg virus	2761_SA11	2013	NA	NA	NA	Nyando
+AQM74145|Wolkberg_virus	303	AQM74145	Wolkberg virus	2763_SA20	2013	NA	NA	NA	Nyando
+AQM74148|Wolkberg_virus	304	AQM74148	Wolkberg virus	2795_SA13	2013	NA	NA	NA	Nyando
+AQM74151|Wolkberg_virus	305	AQM74151	Wolkberg virus	2812_SA8	2013	NA	NA	NA	Nyando
+AQM74154|Wolkberg_virus	306	AQM74154	Wolkberg virus	2813_SA6	2013	NA	NA	NA	Nyando
+AQM74157|Wolkberg_virus	307	AQM74157	Wolkberg virus	2818_SA12	2013	NA	NA	NA	Nyando
+AQM74160|Wolkberg_virus	308	AQM74160	Wolkberg virus	2824_SA2	2013	NA	NA	NA	Nyando
+AQM74163|Wolkberg_virus	309	AQM74163	Wolkberg virus	3011_SA14	2013	NA	NA	NA	Nyando
+AQM74166|Wolkberg_virus	310	AQM74166	Wolkberg virus	3264_SA19	2013	NA	NA	NA	Nyando
+AQM74169|Wolkberg_virus	311	AQM74169	Wolkberg virus	SM910_SA7	2013	NA	NA	NA	Nyando
+YP_009362987|Wolkberg_virus	659	YP_009362987	Wolkberg virus	NA	NA	NA	NA	NA	Nyando
+QLA47008|Wongal_virus	589	QLA47008	Wongal virus	MRM 168	1960	Culex annulirostris	Australia	Oceania	Koongol
+AJG39233|Wuhan_Louse_Fly_Virus_1	166	AJG39233	Wuhan Louse Fly Virus 1	BFJSC-10	2012	unidentified Hippoboscoidea	China	Asia	Nyando
+AXP32082|Wyeomyia_orthobunyavirus	440	AXP32082	Wyeomyia orthobunyavirus	Original	1940	Wyeomyia melanocephala	Colombia: El Horizonte	South America	Wyeomyia
+YP_009512925|Wyeomyia_orthobunyavirus	668	YP_009512925	Wyeomyia orthobunyavirus	original	1940	NA	Colombia	South America	Wyeomyia
+AEZ35273|Wyeomyia_orthobunyavirus	62	AEZ35273	Wyeomyia orthobunyavirus	original	1940	Wyeomyia melanocephala	Colombia	South America	Wyeomyia
+AEZ35278|Wyeomyia_virus	63	AEZ35278	Wyeomyia virus	TRVL8349	1955	Psorophora albipes	Trinidad and Tobago	South America	Wyeomyia
+AEZ35281|Wyeomyia_virus	64	AEZ35281	Wyeomyia virus	Darien	1964	Homo sapiens	Panama	North America	Wyeomyia
+AGA54138|Wyeomyia_orthobunyavirus	79	AGA54138	Wyeomyia orthobunyavirus	original-2	1940	Wyeomyia melanocephala	Colombia	South America	Wyeomyia
+AXP32085|Yaba-7_virus	441	AXP32085	Yaba-7 virus	Yaba 7	1963	Mansonia africana	Nigeria	Africa	Simbu
+AMR73398|Yacaaba_virus	265	AMR73398	Yacaaba virus	NB6028	1970	Aedes vigilax	Australia	Oceania	Ungrouped
+AXP33562|Zegla_virus	446	AXP33562	Zegla virus	BT5012	1961	Sigmodon hispidus	Panama	North America	Patois
+QLA46872|Zegla_virus	556	QLA46872	Zegla virus	BT 5012	1961	Sigmodon hispidus	Panama	North America	Patois
+YP_009667038|Zegla_virus	695	YP_009667038	Zegla virus	BT5012	1961	Sigmodon hispidus	Panama	North America	Patois
